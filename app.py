@@ -3,6 +3,7 @@ import json
 import connexion
 import yaml
 import logging
+from logging import config
 import uuid
 from pykafka import KafkaClient
 
