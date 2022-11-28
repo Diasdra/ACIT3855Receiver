@@ -1,2 +1,2 @@
-@Library('ci_functions@main') _
+@Library('jennie_ci_functions@main') _
 python_build('receiver','receiverapp',8080)
