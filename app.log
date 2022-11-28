@@ -1,0 +1,760 @@
+2022-11-24 08:50:08,770 - basicLogger - DEBUG - debug message
+2022-11-24 08:50:08,773 - basicLogger - DEBUG - debug message
+2022-11-24 09:12:26,264 - basicLogger - INFO - Received return car event with trace id56531d5f-c0e0-41b2-95ea-9a57490c83d8
+2022-11-24 09:12:26,270 - basicLogger - INFO - Received return car event with trace idfc505e35-6409-4fb8-9bda-62fd7e8670f5
+2022-11-24 09:12:26,274 - basicLogger - INFO - Received return car event with trace idb6088e5e-9e9a-45e6-9111-f58a03cdadbe
+2022-11-24 09:12:26,277 - basicLogger - INFO - Received return car event with trace ida7c556ad-e6de-4b41-b87c-a81965037fbd
+2022-11-24 09:12:26,282 - basicLogger - INFO - Received return car event with trace id11c0f9cf-15f9-4d93-9732-514c17664d98
+2022-11-24 09:12:26,286 - basicLogger - INFO - Received return car event with trace idaf82c3b4-62d5-421f-b599-9f5cdeea6ffc
+2022-11-24 09:12:26,292 - basicLogger - INFO - Received return car event with trace id766d6453-7582-459c-bddf-7be0a2c39009
+2022-11-24 09:12:26,306 - basicLogger - INFO - Received return car event with trace id95ca20da-9e69-4c2e-b31d-944b39e2f19b
+2022-11-24 09:12:26,309 - basicLogger - INFO - Received return car event with trace id17d2ace0-83b7-4615-aff5-e6e370b189fd
+2022-11-24 09:12:26,311 - basicLogger - INFO - Received return car event with trace id69b5b900-c8ca-4ef3-9386-1957e824baa8
+2022-11-24 09:12:26,317 - basicLogger - INFO - Received return car event with trace id557463e5-9749-481b-a3e5-f9aa08a0033d
+2022-11-24 09:12:26,324 - basicLogger - INFO - Received return car event with trace id59e65d53-1511-473d-a6d0-da2fd66ed2d7
+2022-11-24 09:12:26,328 - basicLogger - INFO - Received return car event with trace id4dfca062-e9ea-463a-a1f6-35ed8455268d
+2022-11-24 09:12:26,335 - basicLogger - INFO - Received return car event with trace idca3faa81-44b0-435d-ad36-e65329f46c22
+2022-11-24 09:12:26,342 - basicLogger - INFO - Received return car event with trace id5d1d7555-9e4e-440a-a3eb-9a6c105c6189
+2022-11-24 09:12:26,347 - basicLogger - INFO - Received return car event with trace ide6834f86-625a-4041-b537-a71357adac0c
+2022-11-24 09:12:26,351 - basicLogger - INFO - Received return car event with trace id0001b1c4-35f8-4593-b877-d8c03a791939
+2022-11-24 09:12:26,359 - basicLogger - INFO - Received return car event with trace id4a3d79f8-fa8a-45a7-8e9f-69f8e519a833
+2022-11-24 09:12:26,365 - basicLogger - INFO - Received return car event with trace id01cd5cfd-42b2-4eff-a103-6554e1ee3c46
+2022-11-24 09:12:26,370 - basicLogger - INFO - Received return car event with trace id5a887edd-3fd5-4ce8-b378-323bf308b174
+2022-11-24 09:12:26,376 - basicLogger - INFO - Received return car event with trace idcd224901-daf5-43ba-97fd-83e215e586d6
+2022-11-24 09:12:26,383 - basicLogger - INFO - Received return car event with trace id8e0e7236-8ac9-44cd-9e2a-54fbebddfbad
+2022-11-24 09:12:26,388 - basicLogger - INFO - Received return car event with trace idcca1c97d-65ae-40d9-aed1-494c796c9d30
+2022-11-24 09:12:26,394 - basicLogger - INFO - Received return car event with trace id06be78d2-f3e5-42ac-9695-f3428311d26b
+2022-11-24 09:12:26,401 - basicLogger - INFO - Received return car event with trace idc8ceed59-7531-4646-b23c-7d5001a89c4c
+2022-11-24 09:12:26,407 - basicLogger - INFO - Received return car event with trace id1d4106ca-3182-40d5-80da-153cbb36980d
+2022-11-24 09:12:26,412 - basicLogger - INFO - Received return car event with trace id20a8dc9f-962a-4a3a-a345-3bd68a3ce08b
+2022-11-24 09:12:26,419 - basicLogger - INFO - Received return car event with trace idfe3bda60-db1a-4ec5-8dfa-cf6318e52a04
+2022-11-24 09:12:26,425 - basicLogger - INFO - Received return car event with trace id5892392c-a6a2-44b2-a52e-8fc42daaa4ea
+2022-11-24 09:12:26,430 - basicLogger - INFO - Received return car event with trace id9b715539-a1b8-471c-8159-c26d438d5307
+2022-11-24 09:12:26,437 - basicLogger - INFO - Received return car event with trace id73102625-6143-42ce-9370-ff179a0abf5a
+2022-11-24 09:12:26,443 - basicLogger - INFO - Received return car event with trace idf71a7d72-2654-4b3a-860d-23cfc6763716
+2022-11-24 09:12:26,448 - basicLogger - INFO - Received return car event with trace idb68e8582-ff5f-4f73-adcd-bbe930de9201
+2022-11-24 09:12:26,454 - basicLogger - INFO - Received return car event with trace idccc96e6d-c839-4853-ab02-c83ef3908e70
+2022-11-24 09:12:26,459 - basicLogger - INFO - Received return car event with trace ide42737d1-b1b8-4847-9627-6b261a5e8efe
+2022-11-24 09:12:26,467 - basicLogger - INFO - Received return car event with trace id6b6243ee-46c9-42db-8923-c33fd5277117
+2022-11-24 09:12:26,472 - basicLogger - INFO - Received return car event with trace id1ccbc3fc-cb0b-4c61-b5bf-7a22adfa0478
+2022-11-24 09:12:26,478 - basicLogger - INFO - Received return car event with trace id1d2abd7f-e635-401f-a72b-00ef116a6259
+2022-11-24 09:12:26,485 - basicLogger - INFO - Received return car event with trace id6287e742-5b34-4fe1-8463-228c2e3254f9
+2022-11-24 09:12:26,489 - basicLogger - INFO - Received return car event with trace idffa8df47-22b9-4a5a-86d2-382eb0d6886f
+2022-11-24 09:12:26,497 - basicLogger - INFO - Received return car event with trace id7a320da0-d149-4454-be0d-f876b55f72fc
+2022-11-24 09:12:26,503 - basicLogger - INFO - Received return car event with trace idcc025158-89cf-43d6-abef-a1846e5d9e72
+2022-11-24 09:12:26,508 - basicLogger - INFO - Received return car event with trace id7310f777-e980-4a3f-9503-9a2f57c845f4
+2022-11-24 09:12:26,514 - basicLogger - INFO - Received return car event with trace id9eeced7b-b774-4dae-a672-8368145174d3
+2022-11-24 09:12:26,522 - basicLogger - INFO - Received return car event with trace id7544de89-78b1-47cd-be4c-95f1e432ebc2
+2022-11-24 09:12:26,527 - basicLogger - INFO - Received return car event with trace id92c87e8b-e33c-442d-af3f-96f4adf6140d
+2022-11-24 09:12:26,533 - basicLogger - INFO - Received return car event with trace id3a5a6ddb-e4e5-4abb-887e-6fa9888cb460
+2022-11-24 09:12:26,538 - basicLogger - INFO - Received return car event with trace id99e510f5-292d-4416-8cbf-59dde2583234
+2022-11-24 09:12:26,544 - basicLogger - INFO - Received return car event with trace ida8f5e995-8d57-4704-b81b-e752079f6fda
+2022-11-24 09:12:26,552 - basicLogger - INFO - Received return car event with trace id50755293-3b4f-4325-9ecd-324b1ae1c94b
+2022-11-24 09:12:26,557 - basicLogger - INFO - Received return car event with trace ide222a30f-2072-4810-92b0-ed4b48a123c5
+2022-11-24 09:12:26,563 - basicLogger - INFO - Received return car event with trace idc92a6924-d127-4df3-9a24-7eb7a373ae0d
+2022-11-24 09:12:26,568 - basicLogger - INFO - Received return car event with trace id567bad7a-08a3-402a-bfb7-ce3854092e21
+2022-11-24 09:12:26,574 - basicLogger - INFO - Received return car event with trace idd3c26966-beca-4ffd-8c06-4272cb22d789
+2022-11-24 09:12:26,581 - basicLogger - INFO - Received return car event with trace id4cfbc201-0086-4a24-954a-7ec320e6238c
+2022-11-24 09:12:26,588 - basicLogger - INFO - Received return car event with trace idb66e042c-3d26-49a9-a3f4-baea39b98508
+2022-11-24 09:12:26,594 - basicLogger - INFO - Received return car event with trace id3d2bc8c1-9fd1-48d2-be43-9b75cdf41f6b
+2022-11-24 09:12:26,598 - basicLogger - INFO - Received return car event with trace id75a14724-e29f-4697-8b9f-813d5a54a351
+2022-11-24 09:12:26,604 - basicLogger - INFO - Received return car event with trace id6cccd934-d48c-446a-93c8-2cf6f660e1ea
+2022-11-24 09:12:26,609 - basicLogger - INFO - Received return car event with trace idb811f6ab-71e7-421f-adac-5c8ce8153272
+2022-11-24 09:12:26,616 - basicLogger - INFO - Received return car event with trace id5d2f62d9-9f7f-4d30-bcc9-c9ca3a776dc6
+2022-11-24 09:12:26,622 - basicLogger - INFO - Received return car event with trace idab701154-7aa8-4b4f-810b-ea18b0f57664
+2022-11-24 09:12:26,642 - basicLogger - INFO - Received return car event with trace id021810b1-e07c-49d4-ab5c-24f3a1563412
+2022-11-24 09:12:26,643 - basicLogger - INFO - Received return car event with trace id3f04ab3f-ac91-4de3-b0e3-6121d393fe74
+2022-11-24 09:12:26,645 - basicLogger - INFO - Received return car event with trace id23addd34-c98b-402d-824a-322580648c53
+2022-11-24 09:12:26,646 - basicLogger - INFO - Received return car event with trace id48c57635-80af-4cd6-b853-80c68acc4577
+2022-11-24 09:12:26,696 - basicLogger - INFO - Received return car event with trace ida75a4bcb-4466-4c30-b718-9ccfc22a239f
+2022-11-24 09:12:26,698 - basicLogger - INFO - Received return car event with trace idc613bd68-c654-4b13-9216-720d4f87fbf4
+2022-11-24 09:12:26,700 - basicLogger - INFO - Received return car event with trace id871b28c8-69ba-4ebd-bd76-97ff5a714979
+2022-11-24 09:12:26,701 - basicLogger - INFO - Received return car event with trace idbfaca957-0ed3-44d4-a184-d130d7fd9a71
+2022-11-24 09:12:26,703 - basicLogger - INFO - Received return car event with trace idc01763e2-6b73-4990-ba89-1840260b3051
+2022-11-24 09:12:26,704 - basicLogger - INFO - Received return car event with trace id55622cf2-ede8-423f-9f7a-7727a8f42913
+2022-11-24 09:12:26,706 - basicLogger - INFO - Received return car event with trace id10618100-8b75-4820-a7e2-6c3ac911f530
+2022-11-24 09:12:26,707 - basicLogger - INFO - Received return car event with trace idcd787e35-1fab-4037-b70b-755753e85001
+2022-11-24 09:12:26,708 - basicLogger - INFO - Received return car event with trace idf218170d-29ea-442f-95d7-a818652fcc26
+2022-11-24 09:12:26,709 - basicLogger - INFO - Received return car event with trace id2bcd658d-698c-42a3-920a-aa0bf03ee93c
+2022-11-24 09:12:26,712 - basicLogger - INFO - Received return car event with trace idd13521f6-6833-4544-86ce-5b36e8b02266
+2022-11-24 09:12:26,718 - basicLogger - INFO - Received return car event with trace id20c2e300-5566-4f8b-9669-f688b267b22b
+2022-11-24 09:12:26,723 - basicLogger - INFO - Received return car event with trace idd81d994c-bf03-42d9-b5e3-fa16689cc31a
+2022-11-24 09:12:26,730 - basicLogger - INFO - Received return car event with trace idcfaa3b76-d494-43e7-85fe-0f6cbc9cface
+2022-11-24 09:12:26,736 - basicLogger - INFO - Received return car event with trace id3613a661-8a2a-46be-ba47-ff1d24c2bc05
+2022-11-24 09:12:26,743 - basicLogger - INFO - Received return car event with trace id9b56c5c3-aff0-462e-bf34-83a3173d56ff
+2022-11-24 09:12:26,748 - basicLogger - INFO - Received return car event with trace id383497ca-55a0-468e-a07d-692e3cc7dadc
+2022-11-24 09:12:26,754 - basicLogger - INFO - Received return car event with trace id58f68cfb-f526-42ee-a57d-eda569b11251
+2022-11-24 09:12:26,761 - basicLogger - INFO - Received return car event with trace ida61d4f8b-1457-4dc5-a970-e0dfdeefc621
+2022-11-24 09:12:26,767 - basicLogger - INFO - Received return car event with trace id76d80a8c-d214-468a-ab97-5889c2af28ae
+2022-11-24 09:12:26,772 - basicLogger - INFO - Received return car event with trace id8f4b88c5-0130-442f-9255-fe460e302e36
+2022-11-24 09:12:26,778 - basicLogger - INFO - Received return car event with trace id4e71101b-1cde-4642-b96b-c1abfbf7c4cc
+2022-11-24 09:12:26,783 - basicLogger - INFO - Received return car event with trace id9f179f14-7af1-4a8f-b5f2-5965ab101758
+2022-11-24 09:12:26,789 - basicLogger - INFO - Received return car event with trace id62f4c1b1-9c21-4c18-81e7-5c7adc4af8a3
+2022-11-24 09:12:26,797 - basicLogger - INFO - Received return car event with trace idec1f4fb7-7e2e-4567-a012-28c4f20f7a90
+2022-11-24 09:12:26,802 - basicLogger - INFO - Received return car event with trace idcd5f1a77-ef31-417a-b7ed-7c57f02bfdcb
+2022-11-24 09:12:26,808 - basicLogger - INFO - Received return car event with trace id7b714001-17bd-425f-a5c4-e8a1fd0c5e54
+2022-11-24 09:12:26,815 - basicLogger - INFO - Received return car event with trace id6b9bba59-b4dc-43f6-86d9-763ab2c2d4da
+2022-11-24 09:12:26,820 - basicLogger - INFO - Received return car event with trace id06bbc7a7-0e71-4405-88b2-a381d3b97d8c
+2022-11-24 09:12:26,825 - basicLogger - INFO - Received return car event with trace id67271cab-d957-4797-984f-d1727a8d4f4f
+2022-11-24 09:12:26,833 - basicLogger - INFO - Received return car event with trace id8b740db5-2a1c-45d1-853a-bab93cda1b21
+2022-11-24 09:12:26,838 - basicLogger - INFO - Received return car event with trace id949e4573-2bc8-49eb-9c26-16c037e4d3b9
+2022-11-24 09:12:26,843 - basicLogger - INFO - Received return car event with trace ida5cc88ca-abc8-48bc-a463-4513f27fc786
+2022-11-24 09:12:26,850 - basicLogger - INFO - Received return car event with trace idc43393b3-8ef9-484d-8f24-046f1f6e8f13
+2022-11-24 09:12:26,856 - basicLogger - INFO - Received return car event with trace ide7af71da-5484-4522-bf5e-5f01c145f0c3
+2022-11-24 09:12:26,863 - basicLogger - INFO - Received return car event with trace id4ca74a65-7bc5-44e7-9398-9f246991d72b
+2022-11-24 09:12:26,869 - basicLogger - INFO - Received return car event with trace idb5bc6871-f920-4247-96c3-369950e69034
+2022-11-24 09:12:26,874 - basicLogger - INFO - Received return car event with trace idf7544338-5e2f-46d2-b06b-d67632d7743a
+2022-11-24 09:12:26,880 - basicLogger - INFO - Received return car event with trace id0dbe471d-78b2-4556-bad8-e096c0a4d3f8
+2022-11-24 09:12:26,887 - basicLogger - INFO - Received return car event with trace idb0180927-fb9e-411d-85af-8586c218027d
+2022-11-24 09:12:26,892 - basicLogger - INFO - Received return car event with trace id2b67313b-0172-4874-a168-2759999a52af
+2022-11-24 09:12:26,898 - basicLogger - INFO - Received return car event with trace idea568d3f-cb7f-45b8-9a46-3b6459bc7597
+2022-11-24 09:12:26,904 - basicLogger - INFO - Received return car event with trace id0569f837-4663-4f59-af84-6440e38ce7d1
+2022-11-24 09:12:26,910 - basicLogger - INFO - Received return car event with trace id817dd3b1-0cb4-4bb0-b332-2b9c7d3a2925
+2022-11-24 09:12:26,917 - basicLogger - INFO - Received return car event with trace idd6be0766-76b7-48fa-a47b-bbe4ed3c8543
+2022-11-24 09:12:26,922 - basicLogger - INFO - Received return car event with trace id454064e9-ef3d-4809-81f8-79cf7224f35e
+2022-11-24 09:12:26,929 - basicLogger - INFO - Received return car event with trace id09295a9b-6270-4f28-9905-8843903f2582
+2022-11-24 09:12:26,934 - basicLogger - INFO - Received return car event with trace idb226105a-e3a7-4089-a170-6f879fec63d5
+2022-11-24 09:12:26,940 - basicLogger - INFO - Received return car event with trace id5683606a-6fe3-4b5c-9362-e53991f376cb
+2022-11-24 09:12:26,947 - basicLogger - INFO - Received return car event with trace id306c61f4-7f4f-4c1a-ac96-8a98fdb7c237
+2022-11-24 09:12:26,952 - basicLogger - INFO - Received return car event with trace idbef52bda-d6bc-4ab5-b5b7-e385bc60782c
+2022-11-24 09:12:26,958 - basicLogger - INFO - Received return car event with trace id7636c058-4bad-47c4-9c85-f9195bc01bc4
+2022-11-24 09:12:26,965 - basicLogger - INFO - Received return car event with trace id81e7dd55-cd8d-40e3-8422-e5e4dfb18df9
+2022-11-24 09:12:26,971 - basicLogger - INFO - Received return car event with trace id5bb44e93-7392-40dc-a25c-983a2524ce83
+2022-11-24 09:12:26,976 - basicLogger - INFO - Received return car event with trace ida198cf08-793c-454a-8945-cdf4e4b6e009
+2022-11-24 09:12:26,982 - basicLogger - INFO - Received return car event with trace ida46a5bd6-84e4-433e-953b-103c868fa6ee
+2022-11-24 09:12:26,989 - basicLogger - INFO - Received return car event with trace id52fdd9c9-361a-4ff6-89ff-c7e20f76db8c
+2022-11-24 09:12:26,996 - basicLogger - INFO - Received return car event with trace ida389214e-da28-4220-ba94-3882166d08d1
+2022-11-24 09:12:27,001 - basicLogger - INFO - Received return car event with trace idaec348e1-9f82-4081-8ee5-88d7cd7de05c
+2022-11-24 09:12:27,007 - basicLogger - INFO - Received return car event with trace idb11702f2-3610-469c-8d83-afc1ac4ddd7b
+2022-11-24 09:12:27,013 - basicLogger - INFO - Received return car event with trace idb1529bae-1418-45f4-9187-db04240df540
+2022-11-24 09:12:27,018 - basicLogger - INFO - Received return car event with trace id7ed6fee2-d14b-47d6-a4fc-3eaf5c752b44
+2022-11-24 09:12:27,025 - basicLogger - INFO - Received return car event with trace idd50a94f5-0544-4c28-8fb2-07da2fd36090
+2022-11-24 09:12:27,032 - basicLogger - INFO - Received return car event with trace idaade4aac-9af8-4138-8f31-e45e194cdd54
+2022-11-24 09:12:27,036 - basicLogger - INFO - Received return car event with trace id4cd860f0-d671-4a1d-b921-3079946bed55
+2022-11-24 09:12:27,043 - basicLogger - INFO - Received return car event with trace id13cd6bca-b583-456f-ba50-c66d565cd81b
+2022-11-24 09:12:27,049 - basicLogger - INFO - Received return car event with trace id40f94056-fdb1-4001-8f45-479cd5149d3c
+2022-11-24 09:12:27,055 - basicLogger - INFO - Received return car event with trace idb60b1ce1-0c62-434f-8df3-7793866891e5
+2022-11-24 09:12:27,061 - basicLogger - INFO - Received return car event with trace idf1f1cfe3-d5e0-4282-9cd4-c723e1ce93ac
+2022-11-24 09:12:27,067 - basicLogger - INFO - Received return car event with trace idc36e2dfc-11da-4222-a55f-89c70624d65f
+2022-11-24 09:12:27,073 - basicLogger - INFO - Received return car event with trace idf81d221a-6a3e-4820-a6c7-b588c9b9cc02
+2022-11-24 09:12:27,079 - basicLogger - INFO - Received return car event with trace id7ec07f47-941b-403a-8287-685eb54c01c7
+2022-11-24 09:12:27,084 - basicLogger - INFO - Received return car event with trace idab7740de-61fe-474a-a702-dfc36e35c875
+2022-11-24 09:12:27,091 - basicLogger - INFO - Received return car event with trace ida21f4ad7-045a-4291-9855-14b3435aef6a
+2022-11-24 09:12:27,098 - basicLogger - INFO - Received return car event with trace id424e28e6-c952-4768-84e7-a52eaf154ff0
+2022-11-24 09:12:27,103 - basicLogger - INFO - Received return car event with trace id45423579-65c6-4377-90a3-7d53f107c5af
+2022-11-24 09:12:27,109 - basicLogger - INFO - Received return car event with trace id4ad75956-8d14-4e27-841a-b775832ed94c
+2022-11-24 09:12:27,115 - basicLogger - INFO - Received return car event with trace id3f42511e-ac55-4d67-a8bf-a574dbb8dfd6
+2022-11-24 09:12:27,120 - basicLogger - INFO - Received return car event with trace idf482b377-b626-4cd5-8cfc-266b4c697ce8
+2022-11-24 09:12:27,127 - basicLogger - INFO - Received return car event with trace id57f682c6-2919-4a7b-9828-8968b8fb059d
+2022-11-24 09:12:27,143 - basicLogger - INFO - Received return car event with trace id8356f791-8464-4b0a-a2d6-b0ec092bc4a4
+2022-11-24 09:12:27,145 - basicLogger - INFO - Received return car event with trace id530eb33e-7382-403e-85d7-261b6f390fe6
+2022-11-24 09:12:27,146 - basicLogger - INFO - Received return car event with trace ida9f6086d-889d-4c40-9b69-3cd1705bc618
+2022-11-24 09:12:27,151 - basicLogger - INFO - Received return car event with trace ide070a5e2-9936-4acb-9201-8aacbc2521cd
+2022-11-24 09:12:27,157 - basicLogger - INFO - Received return car event with trace idd88ae6ac-7c29-453e-b833-375dbda14a7d
+2022-11-24 09:12:27,164 - basicLogger - INFO - Received return car event with trace id432b9cd2-9fb9-488a-abb6-d7cd135d6dba
+2022-11-24 09:12:27,170 - basicLogger - INFO - Received return car event with trace idb34a3a94-85f6-484f-8c2e-d0e2c7addd80
+2022-11-24 09:12:27,174 - basicLogger - INFO - Received return car event with trace idf6d11f51-a34c-40a1-aa06-037bb4bee376
+2022-11-24 09:12:27,180 - basicLogger - INFO - Received return car event with trace id2849f15f-43c0-4e1b-900a-49e1cee9b9e1
+2022-11-24 09:12:27,187 - basicLogger - INFO - Received return car event with trace id98cc3af8-d413-44a5-b68a-73c0c0db76dc
+2022-11-24 09:12:27,192 - basicLogger - INFO - Received return car event with trace idbeb2e69e-7aa1-4103-a149-6e33ec6c7511
+2022-11-24 09:12:27,199 - basicLogger - INFO - Received return car event with trace id73979615-083a-49b2-b284-2eedc4f659c9
+2022-11-24 09:12:27,204 - basicLogger - INFO - Received return car event with trace idd4aed218-c024-4e24-9a7f-9a66665cc64f
+2022-11-24 09:12:27,211 - basicLogger - INFO - Received return car event with trace ideba52518-984c-44e5-8570-55a576ecbd4b
+2022-11-24 09:12:27,217 - basicLogger - INFO - Received return car event with trace idb95f4602-d767-42e4-8b09-112525d80ae9
+2022-11-24 09:12:27,222 - basicLogger - INFO - Received return car event with trace idacf14f44-e4ec-41fa-9cf8-80d4449bea3f
+2022-11-24 09:12:27,229 - basicLogger - INFO - Received return car event with trace id43bfc7ba-ac58-48ae-8bac-944129e38350
+2022-11-24 09:12:27,235 - basicLogger - INFO - Received return car event with trace idbab4063e-c68d-4b50-80ab-be2a43e2dbc3
+2022-11-24 09:12:27,242 - basicLogger - INFO - Received return car event with trace id35a3329e-1a44-48cc-885e-5295b993a7a9
+2022-11-24 09:12:27,247 - basicLogger - INFO - Received return car event with trace id5ee3292b-dbf1-4f0e-aa21-536ee04a259c
+2022-11-24 09:12:27,253 - basicLogger - INFO - Received return car event with trace id2d760a8f-5601-4602-8fa9-19e22c9d3109
+2022-11-24 09:12:27,259 - basicLogger - INFO - Received return car event with trace idda51853a-f1eb-48a6-a94e-03e0497589d8
+2022-11-24 09:12:27,265 - basicLogger - INFO - Received return car event with trace ide447a0af-a511-4321-8e28-85e4bc358273
+2022-11-24 09:12:27,270 - basicLogger - INFO - Received return car event with trace id874b14ba-d651-48f7-83d8-6c1fda68bd82
+2022-11-24 09:12:27,276 - basicLogger - INFO - Received return car event with trace id7e492157-51d7-4a57-bd78-03ad33283a7f
+2022-11-24 09:12:27,284 - basicLogger - INFO - Received return car event with trace idb70353c2-1c09-4847-b79d-7e8621d090a4
+2022-11-24 09:12:27,288 - basicLogger - INFO - Received return car event with trace idddbdeaa4-802f-48db-9937-1530d308109f
+2022-11-24 09:12:27,293 - basicLogger - INFO - Received return car event with trace id66760946-54c7-4ac8-800a-c470f1f53014
+2022-11-24 09:12:27,299 - basicLogger - INFO - Received return car event with trace id641763ee-c2a3-4265-b7b8-1582e1b3e6dc
+2022-11-24 09:12:27,307 - basicLogger - INFO - Received return car event with trace ide9c6eaa3-0ea8-43ef-9756-0713aaba5b51
+2022-11-24 09:12:27,318 - basicLogger - INFO - Received return car event with trace idec6ed622-637c-4397-8710-7d628966787d
+2022-11-24 09:12:27,321 - basicLogger - INFO - Received return car event with trace id59c48396-93d5-4f85-a5b3-7e3062730763
+2022-11-24 09:12:27,325 - basicLogger - INFO - Received return car event with trace idb51dc6f8-f41f-414c-80a5-4246d29f2a1f
+2022-11-24 09:12:27,331 - basicLogger - INFO - Received return car event with trace id10a52558-81d1-4d4f-a769-1032219153b6
+2022-11-24 09:12:27,338 - basicLogger - INFO - Received return car event with trace id155c2ba9-2dbf-41bd-baed-114ca6e2a7ff
+2022-11-24 09:12:27,342 - basicLogger - INFO - Received return car event with trace id1bb19364-ea56-4900-861b-45e5dabbe7ae
+2022-11-24 09:12:27,348 - basicLogger - INFO - Received return car event with trace id7f8e09c6-497a-409b-9339-f2097600d144
+2022-11-24 09:12:27,353 - basicLogger - INFO - Received return car event with trace id8249d93a-8cf0-49d6-a9d0-78bca34d024a
+2022-11-24 09:12:27,359 - basicLogger - INFO - Received return car event with trace id289a0943-de7b-4e85-8518-a4607048103c
+2022-11-24 09:12:27,366 - basicLogger - INFO - Received return car event with trace iddc336fd0-ac7a-4f54-9aa6-a4319f535a1c
+2022-11-24 09:12:27,372 - basicLogger - INFO - Received return car event with trace idf4dfd3c6-4120-40af-8d98-96db9ebc3b53
+2022-11-24 09:12:27,378 - basicLogger - INFO - Received return car event with trace id4a4c9d02-dac8-40f6-9d20-349d4af016bf
+2022-11-24 09:12:27,385 - basicLogger - INFO - Received return car event with trace idc4d0a90d-3cf0-4fe6-b00b-c5c354fc1a9e
+2022-11-24 09:12:27,392 - basicLogger - INFO - Received return car event with trace id7f476d40-75fd-48f5-aa69-61d0dbfb741f
+2022-11-24 09:12:27,398 - basicLogger - INFO - Received return car event with trace idc70d0060-1212-40a9-a168-5c4e55fadc08
+2022-11-24 09:12:27,402 - basicLogger - INFO - Received return car event with trace id54847e3a-3810-4735-a699-9e379f8b2704
+2022-11-24 09:12:27,408 - basicLogger - INFO - Received return car event with trace id71a4ce1a-57d0-4ecd-928c-fe715be7e2ac
+2022-11-24 09:12:27,415 - basicLogger - INFO - Received return car event with trace id8db85b51-a6db-404e-9c82-91b6ef02d719
+2022-11-24 09:12:27,420 - basicLogger - INFO - Received return car event with trace id8eb89c14-0175-4ca8-b787-fb1e6df41f65
+2022-11-24 09:12:27,427 - basicLogger - INFO - Received return car event with trace id96404cb2-c616-498c-89a7-b94fec4084cf
+2022-11-24 09:12:27,433 - basicLogger - INFO - Received return car event with trace id578e7f8f-6816-402e-8be8-d446d998ba93
+2022-11-24 09:12:27,437 - basicLogger - INFO - Received return car event with trace id035fe15e-c7f9-45df-8fe9-ba8eb7868510
+2022-11-24 09:12:27,444 - basicLogger - INFO - Received return car event with trace idf56ff027-9b46-4d3d-9df4-8ccefc788b0b
+2022-11-24 09:12:27,450 - basicLogger - INFO - Received return car event with trace id5a659a41-9620-49aa-aec5-5267988b5253
+2022-11-24 09:12:27,456 - basicLogger - INFO - Received return car event with trace id25db4dba-859e-48ad-b7d7-1c2d30eb42aa
+2022-11-24 09:12:27,462 - basicLogger - INFO - Received return car event with trace id69104144-abdd-4404-b7f7-56717b6e161c
+2022-11-24 09:12:27,468 - basicLogger - INFO - Received return car event with trace id0c583744-5f1e-4826-9b5a-62b198c9230e
+2022-11-24 09:12:27,475 - basicLogger - INFO - Received return car event with trace id65eb5f1b-a286-4866-8061-5e2732d3fef0
+2022-11-24 09:12:27,481 - basicLogger - INFO - Received return car event with trace ide2544983-d480-4bd0-9ae7-f82e09617e33
+2022-11-24 09:12:27,486 - basicLogger - INFO - Received return car event with trace idf2b7fc60-4ab6-4a91-a631-43fbe3b681b2
+2022-11-24 09:12:27,492 - basicLogger - INFO - Received return car event with trace id1b263d3b-09b2-48b9-96a7-ee629e636865
+2022-11-24 09:12:27,498 - basicLogger - INFO - Received return car event with trace idaec118a7-65ed-467f-87ab-0f1d448d5f8c
+2022-11-24 09:12:27,504 - basicLogger - INFO - Received return car event with trace id7c36a4e0-5d8b-444b-9bc4-ba93fe5cf85b
+2022-11-24 09:12:27,511 - basicLogger - INFO - Received return car event with trace idb78eb5b6-cf63-4a10-8340-0fbdbd969f34
+2022-11-24 09:12:27,515 - basicLogger - INFO - Received return car event with trace id367beeb8-7dd7-4e8e-9cac-54a78217b9db
+2022-11-24 09:12:27,522 - basicLogger - INFO - Received return car event with trace idf227d463-8063-4cab-9b4f-9b8f79b85e71
+2022-11-24 09:12:27,528 - basicLogger - INFO - Received return car event with trace idec4be5a5-1a12-44e8-a3b0-4321c44d27dc
+2022-11-24 09:12:27,534 - basicLogger - INFO - Received return car event with trace idd552931a-391b-4957-97aa-0bf95b0aab62
+2022-11-24 09:12:27,540 - basicLogger - INFO - Received return car event with trace id2dad1d2e-f40e-44bc-b530-1095782a74e7
+2022-11-24 09:12:27,547 - basicLogger - INFO - Received return car event with trace id99ae14e9-721a-4e58-9610-696fc61f71d9
+2022-11-24 09:12:27,553 - basicLogger - INFO - Received return car event with trace idf13c9dda-a87c-46a9-9729-6f1caa4473a2
+2022-11-24 09:12:27,558 - basicLogger - INFO - Received return car event with trace idd80b28b1-69b8-4230-9c3b-37880c72127a
+2022-11-24 09:12:27,563 - basicLogger - INFO - Received return car event with trace id957602d5-12ae-4071-bb3d-3e3031136a85
+2022-11-24 09:12:27,569 - basicLogger - INFO - Received return car event with trace idc7d0cd0c-7376-4726-a568-2806d3539b8c
+2022-11-24 09:12:27,576 - basicLogger - INFO - Received return car event with trace ideab23616-7413-4a9c-8cf0-4bab08384f1e
+2022-11-24 09:12:27,582 - basicLogger - INFO - Received return car event with trace id0e34799e-71e7-439f-bf0a-c33aa8ebc287
+2022-11-24 09:12:27,588 - basicLogger - INFO - Received return car event with trace idc8185fc8-6dd5-4525-86fc-8efa9293f872
+2022-11-24 09:12:27,595 - basicLogger - INFO - Received return car event with trace id0d7eff00-6fe2-4542-a91d-5f374146f6ba
+2022-11-24 09:12:27,601 - basicLogger - INFO - Received return car event with trace idcf3dc38e-2f14-415d-8bc2-253fa2833d13
+2022-11-24 09:12:27,606 - basicLogger - INFO - Received return car event with trace id1b5ce02a-ad8a-4956-a108-7ff42504673b
+2022-11-24 09:12:27,612 - basicLogger - INFO - Received return car event with trace idde5cabfc-ebdf-4a60-b400-ffd451ffc601
+2022-11-24 09:12:27,627 - basicLogger - INFO - Received return car event with trace id29423468-d9f0-4ff1-a1e3-6365c9255540
+2022-11-24 09:12:27,630 - basicLogger - INFO - Received return car event with trace id4de41dc5-5f32-421b-b1ec-32e676480575
+2022-11-24 09:12:27,632 - basicLogger - INFO - Received return car event with trace idadf33f12-eacb-4c83-ba81-214861751604
+2022-11-24 09:12:27,637 - basicLogger - INFO - Received return car event with trace idac25f18c-6209-4bde-ab08-1e78827fbbe6
+2022-11-24 09:12:27,642 - basicLogger - INFO - Received return car event with trace id11fda4d1-f6ee-409e-b3ea-06c995f46c62
+2022-11-24 09:12:27,649 - basicLogger - INFO - Received return car event with trace id812898c8-bd6c-43eb-b4da-e2bcebb6fd78
+2022-11-24 09:12:27,654 - basicLogger - INFO - Received return car event with trace id0d0dc3c9-1c79-401e-9562-6728d1fe50bd
+2022-11-24 09:12:27,659 - basicLogger - INFO - Received return car event with trace id8bbdb411-b461-47a2-a0b4-cc2e7d4c8fe2
+2022-11-24 09:12:27,667 - basicLogger - INFO - Received return car event with trace id640bf296-95ed-4fe9-b11c-7ad6e4ef3d04
+2022-11-24 09:12:27,673 - basicLogger - INFO - Received return car event with trace idcf0fb15e-e2bf-4b97-a750-a88ae2c4a15a
+2022-11-24 09:12:27,679 - basicLogger - INFO - Received return car event with trace idaeef00bb-559f-4887-a0e3-68a31a04fee6
+2022-11-24 09:12:27,686 - basicLogger - INFO - Received return car event with trace id77d1d7bf-767f-4293-8792-18eba1c3594e
+2022-11-24 09:12:27,699 - basicLogger - INFO - Received return car event with trace id9051fe2a-cdd1-4e89-8b2b-6ec464c9ec47
+2022-11-24 09:12:27,705 - basicLogger - INFO - Received return car event with trace id03eb1f48-b771-4856-8d5b-e251746f2c84
+2022-11-24 09:12:27,709 - basicLogger - INFO - Received return car event with trace id462a0ee6-1373-4178-b5c8-74a7cfa5ad1d
+2022-11-24 09:12:27,710 - basicLogger - INFO - Received return car event with trace id5c97bf61-c2bd-42e6-9d88-bd0dbcb363c3
+2022-11-24 09:12:27,716 - basicLogger - INFO - Received return car event with trace idb4fb8fd4-fc7d-453d-83e8-e2c9d9f2e4ec
+2022-11-24 09:12:27,721 - basicLogger - INFO - Received return car event with trace id51bc3a41-690a-45b7-9729-7c8d0c8bbc9f
+2022-11-24 09:12:27,726 - basicLogger - INFO - Received return car event with trace idfe509796-af66-4804-830a-9df79ff0c086
+2022-11-24 09:12:27,732 - basicLogger - INFO - Received return car event with trace idfa03cede-c106-4803-9e1c-812df31f7aad
+2022-11-24 09:12:27,739 - basicLogger - INFO - Received return car event with trace id04699985-5258-4687-87e0-3c12aa13c9b3
+2022-11-24 09:12:27,745 - basicLogger - INFO - Received return car event with trace idec16f643-9a71-45a8-a2f3-a9cf18dd8c66
+2022-11-24 09:12:27,749 - basicLogger - INFO - Received return car event with trace id728e3eb8-9967-42f6-9b6a-7962bfc65dad
+2022-11-24 09:12:27,756 - basicLogger - INFO - Received return car event with trace id18f3f566-42fa-47da-98cc-d4e69b1a10d1
+2022-11-24 09:12:27,763 - basicLogger - INFO - Received return car event with trace ide2ae395f-9ec2-4447-977d-8b3877b7a273
+2022-11-24 09:12:27,770 - basicLogger - INFO - Received return car event with trace id821daf7c-41b6-48a2-99b7-425ebb9c64c4
+2022-11-24 09:12:27,775 - basicLogger - INFO - Received return car event with trace idfb7278d2-d2df-489a-b0e6-99ba5b64df97
+2022-11-24 09:12:27,782 - basicLogger - INFO - Received return car event with trace id002cbbe2-231f-4728-9b58-c44556fc932b
+2022-11-24 09:12:27,787 - basicLogger - INFO - Received return car event with trace id4834d590-bc43-4b25-a38a-1177766e4e2f
+2022-11-24 09:12:27,792 - basicLogger - INFO - Received return car event with trace ide091b722-8e77-4228-9924-6b2ccf4f5d83
+2022-11-24 09:12:27,799 - basicLogger - INFO - Received return car event with trace id17e5b5d4-97d2-475c-8038-0f2ebc1e7149
+2022-11-24 09:12:27,805 - basicLogger - INFO - Received return car event with trace id4487e166-3c4f-4a2d-852d-a49d8c061365
+2022-11-24 09:12:27,811 - basicLogger - INFO - Received return car event with trace id22c264ab-ea68-48d9-96d7-e4cb6d8b9b92
+2022-11-24 09:12:27,817 - basicLogger - INFO - Received return car event with trace id2acefb00-f25e-48c6-8b19-77358d22619a
+2022-11-24 09:12:27,821 - basicLogger - INFO - Received return car event with trace id8d79483a-7cac-482d-9a60-d26a0eb88154
+2022-11-24 09:12:27,828 - basicLogger - INFO - Received return car event with trace id92cbc8f1-4241-41dd-9605-93de12c9624b
+2022-11-24 09:12:27,834 - basicLogger - INFO - Received return car event with trace id93980aa8-984c-40d3-9dc1-6f8c878dc138
+2022-11-24 09:12:27,841 - basicLogger - INFO - Received return car event with trace idfabff5ca-b91f-40ad-b700-cd76c85f1d35
+2022-11-24 09:12:27,847 - basicLogger - INFO - Received return car event with trace idbebfc582-d4ac-40fe-9f59-298c68aec586
+2022-11-24 09:12:27,853 - basicLogger - INFO - Received return car event with trace id00777aab-845e-4537-ad60-374de4dbdbd0
+2022-11-24 09:12:27,859 - basicLogger - INFO - Received return car event with trace id06fac722-6f43-4035-8680-52401cf72416
+2022-11-24 09:12:27,865 - basicLogger - INFO - Received return car event with trace id1dd13dd7-6dd3-4fb7-9ac2-806e59cb508d
+2022-11-24 09:12:27,871 - basicLogger - INFO - Received return car event with trace id58f5d46f-252a-4658-ac3f-75085e1ab2cd
+2022-11-24 09:12:27,877 - basicLogger - INFO - Received return car event with trace idc4ea2a19-d19f-4197-9c23-3f385d0e22ef
+2022-11-24 09:12:27,882 - basicLogger - INFO - Received return car event with trace idf1c21a43-fc5c-4e28-b9fd-57e8492b9bfb
+2022-11-24 09:12:27,888 - basicLogger - INFO - Received return car event with trace id68cd3e46-c07a-43eb-a6db-156de9a7d685
+2022-11-24 09:12:27,895 - basicLogger - INFO - Received return car event with trace id350a0e9e-1804-4ae6-a8d5-bfac158b9e48
+2022-11-24 09:12:27,901 - basicLogger - INFO - Received return car event with trace idfbd224f1-6e77-4f84-a877-124c8843f14c
+2022-11-24 09:12:27,905 - basicLogger - INFO - Received return car event with trace id2216fa46-5ea9-434f-afee-7c3aae9c7744
+2022-11-24 09:12:27,911 - basicLogger - INFO - Received return car event with trace id065953f3-db48-4f8a-a03c-811b54d97fb6
+2022-11-24 09:12:27,918 - basicLogger - INFO - Received return car event with trace iddf89c514-6909-4bde-8eb0-5382289cc6a2
+2022-11-24 09:12:27,925 - basicLogger - INFO - Received return car event with trace id87d840a8-1b69-4d10-ab0b-f91765846ef5
+2022-11-24 09:12:27,931 - basicLogger - INFO - Received return car event with trace ide5fdf005-1ac5-45f3-bb3d-db285c578f8b
+2022-11-24 09:12:27,935 - basicLogger - INFO - Received return car event with trace idc57c9933-c944-4076-85fe-16e802bfddbf
+2022-11-24 09:12:27,942 - basicLogger - INFO - Received return car event with trace id17df517a-87e1-4f46-80ef-69538032902f
+2022-11-24 09:12:27,948 - basicLogger - INFO - Received return car event with trace id8ac33217-d783-4d17-b771-7f1d035aae4a
+2022-11-24 09:12:27,954 - basicLogger - INFO - Received return car event with trace id82d3d367-51d3-42cb-ae0e-0b3804a5185a
+2022-11-24 09:12:27,960 - basicLogger - INFO - Received return car event with trace idf636f5ea-39b6-4e62-bf10-5fad48538f40
+2022-11-24 09:12:27,967 - basicLogger - INFO - Received return car event with trace id25f0c690-51a6-4f53-8753-b689e3789aa9
+2022-11-24 09:12:27,974 - basicLogger - INFO - Received return car event with trace idd87f0272-e44e-4eef-af18-be90523b17b3
+2022-11-24 09:12:27,977 - basicLogger - INFO - Received return car event with trace ide44e45a7-c266-4c2a-bf57-e9e3705d27bc
+2022-11-24 09:12:27,985 - basicLogger - INFO - Received return car event with trace idb4f39a2c-d6c7-4c08-b9c5-3cc500a15df0
+2022-11-24 09:12:27,990 - basicLogger - INFO - Received return car event with trace idf3d9bd1d-266d-4373-ab4c-913fc20650ef
+2022-11-24 09:12:27,997 - basicLogger - INFO - Received return car event with trace idada2e90e-2f1b-42e1-a67d-19293c9f8585
+2022-11-24 09:12:28,005 - basicLogger - INFO - Received return car event with trace idd0cf59a6-f36c-4c0c-890a-989cfcf3d112
+2022-11-24 09:12:28,009 - basicLogger - INFO - Received return car event with trace id5691eadf-797f-45f1-8714-e5e3d116132a
+2022-11-24 09:12:28,014 - basicLogger - INFO - Received return car event with trace id99b6b30a-9eaa-482f-a2bf-30c38d0397ea
+2022-11-24 09:12:28,021 - basicLogger - INFO - Received return car event with trace ida9be10de-2171-45ff-9422-a7b1698420eb
+2022-11-24 09:12:28,025 - basicLogger - INFO - Received return car event with trace ide42352f7-ced4-4db7-8f75-db7cc8b19ab3
+2022-11-24 09:12:28,032 - basicLogger - INFO - Received return car event with trace ida1edc94c-322a-45ff-9c96-b669988618d3
+2022-11-24 09:12:28,038 - basicLogger - INFO - Received return car event with trace idf686dfc1-db5e-4872-a52c-ca83fc6dfe85
+2022-11-24 09:12:28,044 - basicLogger - INFO - Received return car event with trace id26eec050-3eda-4fb4-9ab1-8354008d90c7
+2022-11-24 09:12:28,051 - basicLogger - INFO - Received return car event with trace idf6d00afe-e7d7-470d-96a6-d959a7dc1957
+2022-11-24 09:12:28,055 - basicLogger - INFO - Received return car event with trace id7e7456aa-b23f-4e94-940f-dca7a064db28
+2022-11-24 09:12:28,061 - basicLogger - INFO - Received return car event with trace idd638eec1-fef9-4fb7-a004-875bb721e96e
+2022-11-24 09:12:28,068 - basicLogger - INFO - Received return car event with trace id0bf4bffa-a097-49a9-b91d-fd6c6ea34a2e
+2022-11-24 09:12:28,074 - basicLogger - INFO - Received return car event with trace id91b8cd3d-6880-4baa-b66f-53f0f17e126f
+2022-11-24 09:12:28,081 - basicLogger - INFO - Received return car event with trace idb7c20fd2-25b7-4a86-baac-d138641137f9
+2022-11-24 09:12:28,087 - basicLogger - INFO - Received return car event with trace id103c4a85-70ea-4673-a874-21d3a0e11134
+2022-11-24 09:12:28,092 - basicLogger - INFO - Received return car event with trace ida7227ffd-01e9-4a9e-84f6-c7cba20279db
+2022-11-24 09:12:28,098 - basicLogger - INFO - Received return car event with trace idd80a7677-c08c-4503-82e5-4d125685ba4b
+2022-11-24 09:12:28,104 - basicLogger - INFO - Received return car event with trace id8633f2a3-0b43-411c-a073-17a71ed9febc
+2022-11-24 09:12:28,110 - basicLogger - INFO - Received return car event with trace idb0571a97-d0f9-4c89-a0e3-8c12794593c3
+2022-11-24 09:12:28,116 - basicLogger - INFO - Received return car event with trace idddce0a91-1d8b-402a-a3e1-88d7624c1f6a
+2022-11-24 09:12:28,123 - basicLogger - INFO - Received return car event with trace id59fe6827-9b09-4eef-ad69-d84a00d1fb4b
+2022-11-24 09:12:28,140 - basicLogger - INFO - Received return car event with trace id45c31878-900b-46e0-a893-f6d73ebc0dd7
+2022-11-24 09:12:28,142 - basicLogger - INFO - Received return car event with trace id00cd6b73-b4ce-4f74-af95-531d199f5f09
+2022-11-24 09:12:28,143 - basicLogger - INFO - Received return car event with trace idf1969ed4-a14c-4b0d-acaa-41a755404fd3
+2022-11-24 09:12:28,145 - basicLogger - INFO - Received return car event with trace idfbbb7cc5-af19-407e-a0cb-087e5b8239f3
+2022-11-24 09:12:28,153 - basicLogger - INFO - Received return car event with trace idd2eeba05-763f-471c-95cf-8ae57b351c6a
+2022-11-24 09:12:28,158 - basicLogger - INFO - Received return car event with trace idd1b479fd-3adc-4d64-8a6a-6a428d1daf85
+2022-11-24 09:12:28,165 - basicLogger - INFO - Received return car event with trace id9ad7ad10-bc8b-44e3-9993-8749dad4890b
+2022-11-24 09:12:28,170 - basicLogger - INFO - Received return car event with trace id8f705773-2df6-4d16-aeed-ede4e7271420
+2022-11-24 09:12:28,175 - basicLogger - INFO - Received return car event with trace idbd6b8529-6bc8-4dd5-8d90-2d30aebaadf1
+2022-11-24 09:12:28,182 - basicLogger - INFO - Received return car event with trace id97a73a8d-d9d3-4654-9e50-c15f0e5d6b36
+2022-11-24 09:12:28,188 - basicLogger - INFO - Received return car event with trace idc2a17602-764d-4e16-97ed-01c9214e6a54
+2022-11-24 09:12:28,194 - basicLogger - INFO - Received return car event with trace id99332c38-d84b-48ef-9bb2-8f765ff1ecc1
+2022-11-24 09:12:28,201 - basicLogger - INFO - Received return car event with trace id7a7ee138-d280-4a4c-ba1f-2bb996f8d653
+2022-11-24 09:12:28,207 - basicLogger - INFO - Received return car event with trace id267bddd7-0b40-4255-a8ae-51b9370a7ae4
+2022-11-24 09:12:28,213 - basicLogger - INFO - Received return car event with trace ide03ed4dd-e586-4b6b-a155-8b2234ac0767
+2022-11-24 09:12:28,217 - basicLogger - INFO - Received return car event with trace id13bf0df4-7082-4f83-a888-dcb749749563
+2022-11-24 09:12:28,223 - basicLogger - INFO - Received return car event with trace id37b63713-a4b9-40db-a8b4-71ffc2135bd8
+2022-11-24 09:12:28,229 - basicLogger - INFO - Received return car event with trace idfdee8cc2-7c0d-4c72-94ca-1c1dc27043e8
+2022-11-24 09:12:28,237 - basicLogger - INFO - Received return car event with trace idd8a734aa-de4a-4345-b8a5-b52f04f60893
+2022-11-24 09:12:28,243 - basicLogger - INFO - Received return car event with trace id8d7e91ee-083d-4518-8470-f43d086b5c28
+2022-11-24 09:12:28,250 - basicLogger - INFO - Received return car event with trace idb9c80ecb-46e0-4d54-b3b8-0ba6180fa3af
+2022-11-24 09:12:28,255 - basicLogger - INFO - Received return car event with trace id6d1d38cf-0a71-4646-a807-b768a205ee59
+2022-11-24 09:12:28,261 - basicLogger - INFO - Received return car event with trace id24177b90-5451-46cd-88d0-a89e9c1c3aee
+2022-11-24 09:12:28,267 - basicLogger - INFO - Received return car event with trace id4e51295a-b8f5-4337-9b22-998740fcf9b9
+2022-11-24 09:12:28,272 - basicLogger - INFO - Received return car event with trace idbaa882ae-ead0-4383-bf80-41f3f664c93c
+2022-11-24 09:12:28,278 - basicLogger - INFO - Received return car event with trace id5f82eaca-0375-4304-bc9f-e68a6a83b7a4
+2022-11-24 09:12:28,284 - basicLogger - INFO - Received return car event with trace id2b8b3793-c9ea-411a-9c6c-587b0685209c
+2022-11-24 09:12:28,290 - basicLogger - INFO - Received return car event with trace id8ee720f8-e523-4f66-a069-1dc71b1e08bc
+2022-11-24 09:12:28,298 - basicLogger - INFO - Received return car event with trace id90e20ea1-5473-4a10-868c-b8c1f81530aa
+2022-11-24 09:12:28,303 - basicLogger - INFO - Received return car event with trace idec019c86-1c20-40cd-be42-2ef15c8bd457
+2022-11-24 09:12:28,308 - basicLogger - INFO - Received return car event with trace id5ee44bd3-e531-45c8-9bbf-08ba26912a1a
+2022-11-24 09:12:28,314 - basicLogger - INFO - Received return car event with trace id1eaa4141-1f10-4439-a7df-68198460e52b
+2022-11-24 09:12:28,321 - basicLogger - INFO - Received return car event with trace id020381e2-4219-4caa-ae5c-378c5eb02cd6
+2022-11-24 09:12:28,326 - basicLogger - INFO - Received return car event with trace ida4f988b5-1bd7-4875-87b3-f6d89a44a40e
+2022-11-24 09:12:28,333 - basicLogger - INFO - Received return car event with trace id76eaf3ff-26df-40c8-b919-b18a91f16fe7
+2022-11-24 09:12:28,339 - basicLogger - INFO - Received return car event with trace ida60b8fc3-9c68-4730-b39a-e08f8478e81a
+2022-11-24 09:12:28,344 - basicLogger - INFO - Received return car event with trace id116e590f-5cfd-4d32-b43c-0babee83fb4a
+2022-11-24 09:12:28,350 - basicLogger - INFO - Received return car event with trace id897efeba-6b27-4543-b073-d8066c287bd4
+2022-11-24 09:12:28,355 - basicLogger - INFO - Received return car event with trace id8b9731cb-9381-48a2-a5ef-8d5cd369d523
+2022-11-24 09:12:28,362 - basicLogger - INFO - Received return car event with trace idf2c98cd4-ef26-46d6-983e-38880ef0ac7b
+2022-11-24 09:12:28,368 - basicLogger - INFO - Received return car event with trace id7d78f1ef-dd9f-4cb0-8322-c062eea3a05e
+2022-11-24 09:12:28,375 - basicLogger - INFO - Received return car event with trace id9bdf80d4-f00d-482b-8315-9e9aea13b7a2
+2022-11-24 09:12:28,381 - basicLogger - INFO - Received return car event with trace idecdb6e80-5c02-47a2-b3fe-e6de4df9f24d
+2022-11-24 09:12:28,385 - basicLogger - INFO - Received return car event with trace idda38e4c2-4c7d-4734-990d-4542e1ece70e
+2022-11-24 09:12:28,392 - basicLogger - INFO - Received return car event with trace id45e4d820-8610-44f7-8d0e-bf8bb0fac651
+2022-11-24 09:12:28,398 - basicLogger - INFO - Received return car event with trace id17cd1592-7f8d-4b19-9275-591400e9e050
+2022-11-24 09:12:28,404 - basicLogger - INFO - Received return car event with trace id4d26029f-4ab7-4bb4-a326-7b8e2961715b
+2022-11-24 09:12:28,409 - basicLogger - INFO - Received return car event with trace id40dbb9a2-3373-48cb-ac30-1862ab198140
+2022-11-24 09:12:28,416 - basicLogger - INFO - Received return car event with trace id832a52a6-b844-49ba-908a-7fb640220fac
+2022-11-24 09:12:28,424 - basicLogger - INFO - Received return car event with trace id88cdbd55-83fa-4895-a657-d3d62dc1d466
+2022-11-24 09:12:28,428 - basicLogger - INFO - Received return car event with trace id49666976-a3ed-44a5-806f-4b892f4b1d2b
+2022-11-24 09:12:28,436 - basicLogger - INFO - Received return car event with trace id307e2f08-38f9-419f-9961-3544454a947f
+2022-11-24 09:12:28,440 - basicLogger - INFO - Received return car event with trace id944d192c-c900-49d3-a72c-e493cec7626a
+2022-11-24 09:12:28,446 - basicLogger - INFO - Received return car event with trace idef868661-cc2b-4828-a99a-b5b925821185
+2022-11-24 09:12:28,452 - basicLogger - INFO - Received return car event with trace id3d833e58-969e-4e29-9840-d48a5f4dae60
+2022-11-24 09:12:28,457 - basicLogger - INFO - Received return car event with trace ida75233ae-c3a1-49c3-a902-4f62f59cee0d
+2022-11-24 09:12:28,463 - basicLogger - INFO - Received return car event with trace id866b65d0-9bb5-45f0-8765-4a71aea44a54
+2022-11-24 09:12:28,470 - basicLogger - INFO - Received return car event with trace idcbca9da0-8459-490d-9d6d-ce3ac02bb095
+2022-11-24 09:12:28,476 - basicLogger - INFO - Received return car event with trace id3a8741e7-31c6-44f7-8ec3-03063f1cb8cc
+2022-11-24 09:12:28,483 - basicLogger - INFO - Received return car event with trace idcfd32639-6e62-455c-987e-a1409d517a37
+2022-11-24 09:12:28,488 - basicLogger - INFO - Received return car event with trace idccce1db6-c80f-4862-ac32-989f0212e548
+2022-11-24 09:12:28,493 - basicLogger - INFO - Received return car event with trace id7d0b543f-305f-41de-965e-ccb01365a0d0
+2022-11-24 09:12:28,500 - basicLogger - INFO - Received return car event with trace idfc851310-67e6-44d2-803f-c0afc69b6c4b
+2022-11-24 09:12:28,506 - basicLogger - INFO - Received return car event with trace id7f5ea75d-599e-4e1f-b67f-d46be493c3cd
+2022-11-24 09:12:28,513 - basicLogger - INFO - Received return car event with trace idf019603f-c741-428f-b01e-3cc13ed96000
+2022-11-24 09:12:28,518 - basicLogger - INFO - Received return car event with trace idad96c53f-7919-4f74-b131-caf5ee511ce8
+2022-11-24 09:12:28,524 - basicLogger - INFO - Received return car event with trace id9446dfd3-076b-4275-baff-fbf60d71d91c
+2022-11-24 09:12:28,531 - basicLogger - INFO - Received return car event with trace id60fddb02-6563-47af-85a4-743bb81295db
+2022-11-24 09:12:28,536 - basicLogger - INFO - Received return car event with trace id8c5a2890-78af-453d-9ca8-11fd396a4dfb
+2022-11-24 09:12:28,542 - basicLogger - INFO - Received return car event with trace idb3c4b44e-051d-45f9-91b0-cfe8391b5dfc
+2022-11-24 09:12:28,548 - basicLogger - INFO - Received return car event with trace idef9c5173-370a-40c8-9fff-e96f92ec0a44
+2022-11-24 09:12:28,554 - basicLogger - INFO - Received return car event with trace ideaaf9439-fcf1-4a0e-9cf2-ea345859db64
+2022-11-24 09:12:28,561 - basicLogger - INFO - Received return car event with trace id516f5313-816c-4573-9fa7-7c79c1631725
+2022-11-24 09:12:28,566 - basicLogger - INFO - Received return car event with trace id96c518a6-2a36-4031-9f5d-ae5498df4436
+2022-11-24 09:12:28,571 - basicLogger - INFO - Received return car event with trace id01be2487-3ef0-4f4f-9346-aabb856e63c7
+2022-11-24 09:12:28,578 - basicLogger - INFO - Received return car event with trace id684cf6fd-fdc3-43b3-a8f7-b714c2a09f11
+2022-11-24 09:12:28,585 - basicLogger - INFO - Received return car event with trace id5479e7f1-e48e-400b-9638-3fd84163d820
+2022-11-24 09:12:28,590 - basicLogger - INFO - Received return car event with trace id916f830f-153e-41a8-811a-2a09280d2f22
+2022-11-24 09:12:28,597 - basicLogger - INFO - Received return car event with trace id110e6329-72dc-42f6-b13c-4fd8634971dd
+2022-11-24 09:12:28,602 - basicLogger - INFO - Received return car event with trace id4b7fe723-b069-4666-9a43-aa56b5acbb18
+2022-11-24 09:12:28,608 - basicLogger - INFO - Received return car event with trace idbb6b1a37-0ff9-4da2-afd2-1d5550343bd8
+2022-11-24 09:12:28,614 - basicLogger - INFO - Received return car event with trace idef0fa253-a33b-4438-bc87-bd98a1efe291
+2022-11-24 09:12:28,620 - basicLogger - INFO - Received return car event with trace id70f171ff-c742-4c7d-8205-48693829783a
+2022-11-24 09:12:28,626 - basicLogger - INFO - Received return car event with trace ideb6b33e8-aa07-46d5-8951-e5083d391be3
+2022-11-24 09:12:28,631 - basicLogger - INFO - Received return car event with trace id4640eaa9-828b-43c4-b99c-cbe96d975fbb
+2022-11-24 09:12:28,727 - basicLogger - INFO - Received return car event with trace id03e7019c-e8aa-440e-a698-12d266ac2b42
+2022-11-24 09:12:28,729 - basicLogger - INFO - Received return car event with trace id9da9ae2b-a5f7-49f6-96b9-18ef6b33ea1f
+2022-11-24 09:12:28,732 - basicLogger - INFO - Received return car event with trace id0b33f0f4-7481-4ded-8c52-3ae30cba37cc
+2022-11-24 09:12:28,733 - basicLogger - INFO - Received return car event with trace id76845eab-785a-48f6-9eaf-f4a0ba1575c6
+2022-11-24 09:12:28,735 - basicLogger - INFO - Received return car event with trace idaf3f636a-7c6c-42b2-b191-ecba1cc42849
+2022-11-24 09:12:28,736 - basicLogger - INFO - Received return car event with trace id72db12d2-1d7b-4111-bd2d-d8b65c3cc27e
+2022-11-24 09:12:28,737 - basicLogger - INFO - Received return car event with trace ida2a69fd7-40ec-4481-a46a-598cebc3ef69
+2022-11-24 09:12:28,738 - basicLogger - INFO - Received return car event with trace id1f6a7e74-dc22-4e80-a117-2a34423661a7
+2022-11-24 09:12:28,740 - basicLogger - INFO - Received return car event with trace id761ef24e-16f2-4cc9-95a0-abf526d12d5b
+2022-11-24 09:12:28,741 - basicLogger - INFO - Received return car event with trace idc57865f4-da29-4a5f-b086-12c70974fbca
+2022-11-24 09:12:28,743 - basicLogger - INFO - Received return car event with trace id1414c79a-d658-4293-b84b-74ee20e49a87
+2022-11-24 09:12:28,744 - basicLogger - INFO - Received return car event with trace id9a138331-f6bc-4ec6-a232-76595f315ff6
+2022-11-24 09:12:28,745 - basicLogger - INFO - Received return car event with trace id14f511bf-0a70-46ed-bbf0-a9a9fd485628
+2022-11-24 09:12:28,747 - basicLogger - INFO - Received return car event with trace id3af2c23f-7acc-4bb7-8487-faf615f13ab9
+2022-11-24 09:12:28,749 - basicLogger - INFO - Received return car event with trace id28a52222-2a2d-42c3-bf9f-fa83182b5f1f
+2022-11-24 09:12:28,750 - basicLogger - INFO - Received return car event with trace idb7ee6bd9-c5eb-471d-ad28-5b89c9956c98
+2022-11-24 09:12:28,752 - basicLogger - INFO - Received return car event with trace id8966af3a-0a97-47e2-bf34-1fb614995724
+2022-11-24 09:12:28,753 - basicLogger - INFO - Received return car event with trace idd582fba5-d617-4b92-a2ea-7c637d7262b7
+2022-11-24 09:12:28,754 - basicLogger - INFO - Received return car event with trace idcc2c615c-c4c8-4886-918b-dc8dc058ec09
+2022-11-24 09:12:28,755 - basicLogger - INFO - Received return car event with trace id8f15de77-90c3-49d4-b0f8-e2512b75b933
+2022-11-24 09:12:28,757 - basicLogger - INFO - Received return car event with trace id9ab0de2f-df01-431e-8c1c-406ab6f2d9fd
+2022-11-24 09:12:28,763 - basicLogger - INFO - Received return car event with trace id292660ca-b908-4007-afca-e0977c193695
+2022-11-24 09:12:28,770 - basicLogger - INFO - Received return car event with trace id61140630-0c2a-4669-bd1c-86301dbfc5b1
+2022-11-24 09:12:28,777 - basicLogger - INFO - Received return car event with trace iddf7490cc-dad5-45e8-a7a1-33cdebe8fc8d
+2022-11-24 09:12:28,783 - basicLogger - INFO - Received return car event with trace id2b86e8e7-9ec5-439b-9089-cd24ad02148a
+2022-11-24 09:12:28,788 - basicLogger - INFO - Received return car event with trace id50e9226f-e13d-44f7-b532-33a769fc9e5b
+2022-11-24 09:12:28,794 - basicLogger - INFO - Received return car event with trace id8f829781-9f52-48ec-900c-8214acc6650b
+2022-11-24 09:12:28,800 - basicLogger - INFO - Received return car event with trace id05b9a7fa-16de-466c-987c-ecd17c450ee1
+2022-11-24 09:12:28,806 - basicLogger - INFO - Received return car event with trace idb8e7f8a3-3af2-43d0-b673-f6119181dfcf
+2022-11-24 09:12:28,813 - basicLogger - INFO - Received return car event with trace id798281ef-5e99-4b22-a4ee-1d7761d5422d
+2022-11-24 09:12:28,817 - basicLogger - INFO - Received return car event with trace idaf61a1a2-4bb9-4dcc-ae39-f5cf359155c7
+2022-11-24 09:12:28,824 - basicLogger - INFO - Received return car event with trace id38700242-1147-47e7-b481-d45d09f4f023
+2022-11-24 09:12:28,830 - basicLogger - INFO - Received return car event with trace idd6848d14-cc9b-4553-b199-93fbcb275d73
+2022-11-24 09:12:28,835 - basicLogger - INFO - Received return car event with trace idfb5e0a28-3ead-48dd-82c1-b1251f876a95
+2022-11-24 09:12:28,843 - basicLogger - INFO - Received return car event with trace id9602815b-c68b-4c29-99fa-70cc0ac5432a
+2022-11-24 09:12:28,849 - basicLogger - INFO - Received return car event with trace id45538ef8-f63f-445e-bf46-0640a2d22e37
+2022-11-24 09:12:28,854 - basicLogger - INFO - Received return car event with trace idf5f356b2-6acb-447a-b615-3fc9593ba575
+2022-11-24 09:12:28,860 - basicLogger - INFO - Received return car event with trace id2978ba5c-4764-44af-8214-d2e860d65364
+2022-11-24 09:12:28,866 - basicLogger - INFO - Received return car event with trace id30d93ea7-84f6-4e19-b018-2044c93b3ace
+2022-11-24 09:12:28,872 - basicLogger - INFO - Received return car event with trace id7c8d6832-bc55-4e7e-897d-031bdb3c44bd
+2022-11-24 09:12:28,877 - basicLogger - INFO - Received return car event with trace ida707a7a8-bd98-4df2-a2cf-8b628e203d93
+2022-11-24 09:12:28,884 - basicLogger - INFO - Received return car event with trace id00995fe3-52f5-496d-93f1-9a407b535a2d
+2022-11-24 09:12:28,890 - basicLogger - INFO - Received return car event with trace id296c798a-71f8-4d8e-a6ac-fa052304f5cf
+2022-11-24 09:12:28,895 - basicLogger - INFO - Received return car event with trace idf87e0296-de81-45d0-a7e8-80c28ab0557f
+2022-11-24 09:12:28,902 - basicLogger - INFO - Received return car event with trace id4774acfe-8c96-45a4-a547-55b8bd20d126
+2022-11-24 09:12:28,907 - basicLogger - INFO - Received return car event with trace id778fb613-b647-4b79-b3a4-e98674025ad5
+2022-11-24 09:12:28,913 - basicLogger - INFO - Received return car event with trace id5258601e-3dd6-4c5f-bf70-eb56d9d6f8e5
+2022-11-24 09:12:28,920 - basicLogger - INFO - Received return car event with trace id1da0edfc-9880-4705-a252-a126abb5ad78
+2022-11-24 09:12:28,925 - basicLogger - INFO - Received return car event with trace ida3637306-2abc-467d-8c70-7278e8b02e97
+2022-11-24 09:12:28,934 - basicLogger - INFO - Received return car event with trace id83de6ff1-2fa1-4345-a51e-477e9db5c1f8
+2022-11-24 09:12:28,939 - basicLogger - INFO - Received return car event with trace id0f01a3b2-1066-4ab5-a23f-b87a328b46b0
+2022-11-24 09:12:28,945 - basicLogger - INFO - Received return car event with trace id38f4a726-b936-4f57-bab5-21f36b352d65
+2022-11-24 09:12:28,952 - basicLogger - INFO - Received return car event with trace id92c0e6d8-fe91-4957-9fd7-413b0410516f
+2022-11-24 09:12:28,956 - basicLogger - INFO - Received return car event with trace idd713f32a-2d9c-43ef-a18b-26901f5443da
+2022-11-24 09:12:28,962 - basicLogger - INFO - Received return car event with trace id5991fc26-71cc-46eb-b4cb-06705d8f152a
+2022-11-24 09:12:28,968 - basicLogger - INFO - Received return car event with trace ida74b5773-413b-4cc9-8a2e-a98aff59c6f1
+2022-11-24 09:12:28,974 - basicLogger - INFO - Received return car event with trace id8cafe852-a2a8-464f-aaf8-e5e8d64cd68b
+2022-11-24 09:12:28,982 - basicLogger - INFO - Received return car event with trace ida46b3cd5-fcb7-4779-8fbf-1c6f3892ce1f
+2022-11-24 09:12:28,987 - basicLogger - INFO - Received return car event with trace id5320ae5e-a0c7-4d2d-adba-ca8b365094a6
+2022-11-24 09:12:28,992 - basicLogger - INFO - Received return car event with trace idca165cef-0c37-4f93-8922-926521057f6a
+2022-11-24 09:12:28,998 - basicLogger - INFO - Received return car event with trace idbe613bc1-5036-4263-9f8e-b00b4498c36f
+2022-11-24 09:12:29,004 - basicLogger - INFO - Received return car event with trace idade8ee52-9afb-433c-b05e-c62655bf62f0
+2022-11-24 09:12:29,010 - basicLogger - INFO - Received return car event with trace id0fbaa0dc-7fe6-4a50-8a3c-0733b9dc2552
+2022-11-24 09:12:29,016 - basicLogger - INFO - Received return car event with trace id49633772-4a64-4b25-9cf8-f1115428b6b5
+2022-11-24 09:12:29,022 - basicLogger - INFO - Received return car event with trace ida9e05c25-ad15-4a5e-8c0d-1498904e851f
+2022-11-24 09:12:29,028 - basicLogger - INFO - Received return car event with trace idd5792e7a-8611-41c2-a9b5-410844f50837
+2022-11-24 09:12:29,034 - basicLogger - INFO - Received return car event with trace id46c66ec1-44d3-4eb0-b90e-dd58cc590486
+2022-11-24 09:12:29,039 - basicLogger - INFO - Received return car event with trace idb285b8c1-d6da-4a3c-91c5-2fe9f890585b
+2022-11-24 09:12:29,048 - basicLogger - INFO - Received return car event with trace idb5cb0223-cfad-4bd5-a83a-d3c3b3acd51b
+2022-11-24 09:12:29,054 - basicLogger - INFO - Received return car event with trace ide1c63045-2bad-4424-9df7-81bbac8a195b
+2022-11-24 09:12:29,059 - basicLogger - INFO - Received return car event with trace id4b2af797-1414-4ba5-b7d2-c335c03d6da3
+2022-11-24 09:12:29,064 - basicLogger - INFO - Received return car event with trace id5d244c88-855a-48d1-ad82-e68fd6dfc0f9
+2022-11-24 09:12:29,070 - basicLogger - INFO - Received return car event with trace idec0f5581-caed-4f9f-b599-f80da410675a
+2022-11-24 09:12:29,076 - basicLogger - INFO - Received return car event with trace id179a0d34-47c2-4654-8451-d1253bd75e1a
+2022-11-24 09:12:29,082 - basicLogger - INFO - Received return car event with trace id71e5f29f-ba96-4630-8f4f-9a53038e748c
+2022-11-24 09:12:29,088 - basicLogger - INFO - Received return car event with trace id82a9faa9-958a-45a9-930a-2957d58d9d60
+2022-11-24 09:12:29,093 - basicLogger - INFO - Received return car event with trace id0c39d14c-724f-4486-b790-0fd3140f1b33
+2022-11-24 09:12:29,101 - basicLogger - INFO - Received return car event with trace idbba37024-2c21-4970-aca1-95448976c358
+2022-11-24 09:12:29,107 - basicLogger - INFO - Received return car event with trace ida532cae7-fa2c-4ba8-a5b9-b9f20d8ef14e
+2022-11-24 09:12:29,111 - basicLogger - INFO - Received return car event with trace id47e2314f-6763-490b-825f-ce7a3fa39614
+2022-11-24 09:12:29,118 - basicLogger - INFO - Received return car event with trace id0c049f39-5a07-464b-8b32-16e6cadd3b62
+2022-11-24 09:12:29,123 - basicLogger - INFO - Received return car event with trace id5f5ac630-45ab-4082-9586-983040247e5c
+2022-11-24 09:12:29,129 - basicLogger - INFO - Received return car event with trace id3a95a77f-bc70-4b81-a77b-3979f4248005
+2022-11-24 09:12:29,136 - basicLogger - INFO - Received return car event with trace ide338c977-9585-479a-9fe4-5bc6a47cc346
+2022-11-24 09:12:29,141 - basicLogger - INFO - Received return car event with trace idb3ffe1d1-2fd3-4711-a4b3-d536a536b337
+2022-11-24 09:12:29,149 - basicLogger - INFO - Received return car event with trace id045552a4-9a0d-433b-ba58-7d4ed69b34a3
+2022-11-24 09:12:29,154 - basicLogger - INFO - Received return car event with trace id89688dd0-5ed0-4b5c-b355-3260e272318b
+2022-11-24 09:12:29,159 - basicLogger - INFO - Received return car event with trace idf9127f5f-a017-44f1-b1f0-5af8732d4c0a
+2022-11-24 09:12:29,166 - basicLogger - INFO - Received return car event with trace idc5c53fba-1d66-41fb-91c1-884f2db2c450
+2022-11-24 09:12:29,172 - basicLogger - INFO - Received return car event with trace id816dda28-1472-4c76-a759-f3a0cc21fa36
+2022-11-24 09:12:29,178 - basicLogger - INFO - Received return car event with trace idcd4acef4-938e-4667-ac8c-6d2245359286
+2022-11-24 09:12:29,184 - basicLogger - INFO - Received return car event with trace idec01dfa3-741b-433d-a0b9-c7d098871ae3
+2022-11-24 09:12:29,190 - basicLogger - INFO - Received return car event with trace ida8873d6c-cff4-48a3-9042-57906296d324
+2022-11-24 09:12:29,197 - basicLogger - INFO - Received return car event with trace id4ad2268f-188c-4568-8489-4216acbb04f1
+2022-11-24 09:12:29,203 - basicLogger - INFO - Received return car event with trace id3d290503-dc46-4380-b725-9a882553a794
+2022-11-24 09:12:29,210 - basicLogger - INFO - Received return car event with trace id1e73dbed-b2ae-4d3a-a869-4c74e4e72bf5
+2022-11-24 09:12:29,214 - basicLogger - INFO - Received return car event with trace id8eb5f427-b8ac-44c8-a623-d3fccfeb7f2f
+2022-11-24 09:12:29,220 - basicLogger - INFO - Received return car event with trace idbcaf4af9-d8a0-485b-994a-1bab89e1baae
+2022-11-24 09:12:29,226 - basicLogger - INFO - Received return car event with trace idea1f4e1a-4d89-4aeb-a924-69f2511dfb02
+2022-11-24 09:12:29,233 - basicLogger - INFO - Received return car event with trace id868b1690-9cec-41a0-9323-529549ad830d
+2022-11-24 09:12:29,238 - basicLogger - INFO - Received return car event with trace id938be59a-7099-42ef-a70e-c5d39731ceec
+2022-11-24 09:12:29,244 - basicLogger - INFO - Received return car event with trace id86803314-afa6-4bfe-b31e-7bdc1afa23ed
+2022-11-24 09:12:29,250 - basicLogger - INFO - Received return car event with trace idb8af22a8-f225-4964-a747-195ac448f398
+2022-11-24 09:13:22,711 - basicLogger - DEBUG - debug message
+2022-11-24 09:13:22,715 - basicLogger - DEBUG - debug message
+2022-11-24 09:13:24,562 - basicLogger - INFO - Received return car event with trace iddab379c6-2703-42e1-ad4c-e864a90c2ab4
+2022-11-24 09:13:24,727 - basicLogger - INFO - Received return car event with trace id6fc4b314-74e7-46b9-9822-5c70e1a9f415
+2022-11-24 09:13:24,865 - basicLogger - INFO - Received return car event with trace id02e7691b-b066-454e-9a71-6f1483dacb13
+2022-11-24 09:13:25,011 - basicLogger - INFO - Received return car event with trace id6dedae7b-ea6a-4033-9759-6c3595428c39
+2022-11-24 09:13:25,162 - basicLogger - INFO - Received return car event with trace idaa04b48b-a796-4e77-a647-794fb3e6524d
+2022-11-24 09:13:25,310 - basicLogger - INFO - Received return car event with trace id5ca4f9d5-de7f-4e7e-a603-2d35b85477e9
+2022-11-24 09:13:25,462 - basicLogger - INFO - Received return car event with trace id929b8a75-24e3-4872-95ec-7b25806cb40c
+2022-11-24 09:13:25,611 - basicLogger - INFO - Received return car event with trace ide750a0e4-7e30-4f19-9120-62ca4d6df078
+2022-11-24 09:13:25,762 - basicLogger - INFO - Received return car event with trace id9f5618e5-bdb0-4802-b01f-4d6d91c80b7e
+2022-11-24 09:13:25,910 - basicLogger - INFO - Received return car event with trace id2b659af5-01ca-4419-a93e-5b360335c9f5
+2022-11-24 09:13:26,060 - basicLogger - INFO - Received return car event with trace id5a5d8e60-44b5-4135-9a00-242d5dfc7077
+2022-11-24 09:13:26,213 - basicLogger - INFO - Received return car event with trace id32dbb4da-425c-4f53-aaa5-9da81e36effe
+2022-11-24 09:13:26,363 - basicLogger - INFO - Received return car event with trace iddaab1818-19f6-4abd-aca4-e2e774f8351f
+2022-11-24 09:13:26,510 - basicLogger - INFO - Received return car event with trace idc42dc74a-4759-437c-80c5-d5454a158824
+2022-11-24 09:13:26,662 - basicLogger - INFO - Received return car event with trace id62842b4c-3c51-48e6-8ca5-5ff20d45a4e5
+2022-11-24 09:13:26,814 - basicLogger - INFO - Received return car event with trace idb0cb6cd9-4777-494f-b45e-4d66d048c99e
+2022-11-24 09:13:26,963 - basicLogger - INFO - Received return car event with trace id1c3561d9-3a2e-4d4d-9199-d9929455bb70
+2022-11-24 09:13:27,111 - basicLogger - INFO - Received return car event with trace id1cc034f9-1e51-49f8-8d07-93226159d359
+2022-11-24 09:14:20,474 - basicLogger - DEBUG - debug message
+2022-11-24 09:14:20,477 - basicLogger - DEBUG - debug message
+2022-11-24 09:14:25,180 - basicLogger - INFO - Received return car event with trace id608732ff-7911-41ac-802e-dddc4f171a74
+2022-11-24 09:14:25,330 - basicLogger - INFO - Received return car event with trace idead1f0d7-acf6-41c6-a788-a3c5a9338841
+2022-11-24 09:14:25,478 - basicLogger - INFO - Received return car event with trace id39a5bcea-b859-483f-865e-dd4f2a6d85ba
+2022-11-24 09:14:25,627 - basicLogger - INFO - Received return car event with trace id24589600-24db-4084-a7a9-2ceda0d21a1f
+2022-11-24 09:14:25,780 - basicLogger - INFO - Received return car event with trace idb1120804-6e84-4f01-a808-c2178d852b4c
+2022-11-24 09:14:25,932 - basicLogger - INFO - Received return car event with trace idfed419b6-cbba-48fd-9089-ccdc242e916b
+2022-11-24 09:14:26,078 - basicLogger - INFO - Received return car event with trace id52ad20d3-0c15-485b-aecd-1f55921951d3
+2022-11-24 09:14:26,229 - basicLogger - INFO - Received return car event with trace id5433253b-d24f-43ee-ab06-d181e3542bae
+2022-11-24 09:14:26,379 - basicLogger - INFO - Received return car event with trace id746a9188-e3a0-4e1f-8381-323f4792153c
+2022-11-24 09:14:26,531 - basicLogger - INFO - Received return car event with trace ida5dd07e8-0e63-4083-8197-a53f41e223bf
+2022-11-24 09:14:26,678 - basicLogger - INFO - Received return car event with trace idffb1eea5-b996-40a4-aa8f-65f762fc65d7
+2022-11-24 09:14:26,833 - basicLogger - INFO - Received return car event with trace id052915b1-5c19-44fa-8b19-14761ffd871b
+2022-11-24 09:14:26,981 - basicLogger - INFO - Received return car event with trace id51dc4654-457b-4455-9677-3a1d366e243d
+2022-11-24 09:14:27,129 - basicLogger - INFO - Received return car event with trace id49444114-bf50-4ace-be66-390fcb0cb1e8
+2022-11-24 09:14:27,278 - basicLogger - INFO - Received return car event with trace id601be9b1-5140-4494-8cfd-da88fa94fdd1
+2022-11-24 09:14:27,427 - basicLogger - INFO - Received return car event with trace idf95c4057-d462-4a63-8cc2-8949550d3bd9
+2022-11-24 09:14:27,578 - basicLogger - INFO - Received return car event with trace id24dcc568-e309-4461-b49c-d9846ae36e19
+2022-11-24 09:14:27,729 - basicLogger - INFO - Received return car event with trace idec49aa2a-d55b-4feb-ac9e-e003f0cae370
+2022-11-24 09:14:27,880 - basicLogger - INFO - Received return car event with trace id38a25beb-eb81-434f-93c2-748325277c35
+2022-11-24 09:14:28,029 - basicLogger - INFO - Received return car event with trace idbb6d440c-0cbd-44cb-816f-a7fbc6755972
+2022-11-24 09:14:59,010 - basicLogger - DEBUG - debug message
+2022-11-24 09:14:59,014 - basicLogger - DEBUG - debug message
+2022-11-24 09:15:02,270 - basicLogger - INFO - Received return car event with trace ida612c62d-da1a-43ee-bd02-fc1d155a7b15
+2022-11-24 09:15:02,420 - basicLogger - INFO - Received return car event with trace id36b6b33f-3794-49d8-9745-61e7c00a110e
+2022-11-24 09:15:02,570 - basicLogger - INFO - Received return car event with trace idcb391786-f0e8-4a56-856b-a5ce066ca579
+2022-11-24 09:15:02,718 - basicLogger - INFO - Received return car event with trace id2f254478-103c-4e9e-b3f0-183131d76f60
+2022-11-24 09:15:02,871 - basicLogger - INFO - Received return car event with trace id7eb8c785-6aec-4d90-b5de-2ec6a94b3646
+2022-11-24 09:15:03,020 - basicLogger - INFO - Received return car event with trace id3dc8f9e3-ecd1-4736-9c87-fbf7cd7598e0
+2022-11-24 09:15:03,171 - basicLogger - INFO - Received return car event with trace ideb0d3be3-54a3-44ae-ab2a-d4823ca574e5
+2022-11-24 09:15:03,318 - basicLogger - INFO - Received return car event with trace ide9afde3b-69e7-44d6-853c-4fd60137b39e
+2022-11-24 09:15:03,468 - basicLogger - INFO - Received return car event with trace id8807a963-8d0d-4c59-8858-177e0405c635
+2022-11-24 09:15:03,620 - basicLogger - INFO - Received return car event with trace id4c6a1073-12b7-4630-8424-e19853e4fc04
+2022-11-24 09:15:03,768 - basicLogger - INFO - Received return car event with trace id930e0f12-a362-4ac0-bfd5-dd3050d94b4f
+2022-11-24 09:15:03,921 - basicLogger - INFO - Received return car event with trace id011d6ca7-9b77-4d79-ba93-8a45b48f9958
+2022-11-24 09:15:33,714 - basicLogger - INFO - Received return car event with trace idcb697545-f261-4ce7-b4e8-41ad407642f1
+2022-11-24 09:15:33,789 - basicLogger - INFO - Received rentcar even with trace id9fb198ba-fae6-48ab-a3d7-a46f7cb8bb33
+2022-11-24 09:15:33,869 - basicLogger - INFO - Received return car event with trace idb6e169bb-736a-459f-8ab8-94d241e015be
+2022-11-24 09:15:33,879 - basicLogger - INFO - Received return car event with trace id5e828dd6-c086-4eda-98a5-bafb2904d328
+2022-11-24 09:15:33,948 - basicLogger - INFO - Received rentcar even with trace id9cae887d-5d90-40d0-9b9f-cdaa6f3809c2
+2022-11-24 09:15:34,012 - basicLogger - INFO - Received return car event with trace idd2789413-e012-401a-9b7e-3f275f0a7709
+2022-11-24 09:15:34,019 - basicLogger - INFO - Received rentcar even with trace idbc88d542-47fe-455f-8c7c-00f682a20212
+2022-11-24 09:15:34,092 - basicLogger - INFO - Received rentcar even with trace id7cc98edf-5d93-486e-86cf-411936b95231
+2022-11-24 09:15:34,095 - basicLogger - INFO - Received return car event with trace id7c9be125-6758-415e-9f8b-5f24916ae2cd
+2022-11-24 09:15:34,163 - basicLogger - INFO - Received return car event with trace id6bb1f9bf-1bda-4ece-8977-e9dc1dd0a98f
+2022-11-24 09:15:34,165 - basicLogger - INFO - Received return car event with trace idcff50b54-2652-45ce-80d3-f8196acef0e0
+2022-11-24 09:15:34,236 - basicLogger - INFO - Received rentcar even with trace id53042fb4-4050-4552-b027-b817a80f2037
+2022-11-24 09:15:34,237 - basicLogger - INFO - Received return car event with trace id5ce9f784-aa66-4609-b128-21cd833c2f54
+2022-11-24 09:15:34,313 - basicLogger - INFO - Received rentcar even with trace id5722c726-6b36-41ee-b405-72b3b469c28f
+2022-11-24 09:15:34,314 - basicLogger - INFO - Received rentcar even with trace idc7b415bc-2481-4f9e-8448-2988600573e0
+2022-11-24 09:15:34,316 - basicLogger - INFO - Received return car event with trace id20978b7f-8145-41bd-934e-c688f49aed30
+2022-11-24 09:15:34,383 - basicLogger - INFO - Received rentcar even with trace idd0913a78-77e5-4248-8af3-0b2bb502e38d
+2022-11-24 09:15:34,384 - basicLogger - INFO - Received return car event with trace id2b5a2816-3a17-409d-b30a-6e7603d47005
+2022-11-24 09:15:34,456 - basicLogger - INFO - Received return car event with trace iddc5ab668-c1a5-4666-adfe-5b631aeba64b
+2022-11-24 09:15:34,458 - basicLogger - INFO - Received return car event with trace id73f0d34a-5f32-49bb-a7b5-e3ae2ede2e3f
+2022-11-24 09:15:34,460 - basicLogger - INFO - Received rentcar even with trace ida2329d78-b871-4fb8-86e5-f8840b139d78
+2022-11-24 09:15:34,462 - basicLogger - INFO - Received return car event with trace id323cb974-e4e7-48b1-926b-bc162e00a438
+2022-11-24 09:15:34,528 - basicLogger - INFO - Received rentcar even with trace iddbb6ea00-6ffa-4e9a-94e7-7c3ee325333f
+2022-11-24 09:15:34,529 - basicLogger - INFO - Received return car event with trace idb23b0212-1c60-4e8d-9840-a6cd52a27b7a
+2022-11-24 09:15:34,601 - basicLogger - INFO - Received rentcar even with trace id00c52782-2a8c-44c9-a279-ead7d1082fea
+2022-11-24 09:15:34,603 - basicLogger - INFO - Received return car event with trace idc8cca69e-cc88-416c-af42-fe27af5d7607
+2022-11-24 09:15:34,604 - basicLogger - INFO - Received rentcar even with trace id3b9b5950-ca35-4ab1-a970-12896e957b9a
+2022-11-24 09:15:34,606 - basicLogger - INFO - Received rentcar even with trace idb8cd3965-b354-4f35-a816-6f11eb8d2da9
+2022-11-24 09:15:34,613 - basicLogger - INFO - Received return car event with trace idd943b3e7-ac02-4589-a588-e38985de1f58
+2022-11-24 09:15:34,673 - basicLogger - INFO - Received rentcar even with trace id8520b8ad-7a44-4e54-af5f-bec875e2324b
+2022-11-24 09:15:34,674 - basicLogger - INFO - Received return car event with trace ide8c85b5b-02d3-4875-872f-c3e6a4693ad4
+2022-11-24 09:15:34,746 - basicLogger - INFO - Received rentcar even with trace ida179a5e9-b52e-4819-8688-95828bc231d1
+2022-11-24 09:15:34,747 - basicLogger - INFO - Received return car event with trace id31f1d1f6-6bdb-409a-a655-60d359a32ae6
+2022-11-24 09:15:34,749 - basicLogger - INFO - Received return car event with trace idde702a28-5047-409f-aec1-24f6a92e901f
+2022-11-24 09:15:34,751 - basicLogger - INFO - Received rentcar even with trace idda0fadac-6caa-4df4-a2ce-71577f44b8f6
+2022-11-24 09:15:34,752 - basicLogger - INFO - Received return car event with trace idd177706d-54ee-4cb0-a59e-07e549e5d496
+2022-11-24 09:15:34,761 - basicLogger - INFO - Received return car event with trace id5b988ccb-28fd-48e0-a76c-bfcc454eed87
+2022-11-24 09:15:34,816 - basicLogger - INFO - Received return car event with trace id0215b22a-811f-4f31-a56d-7226e71729fe
+2022-11-24 09:15:34,817 - basicLogger - INFO - Received rentcar even with trace id3107639c-8863-47f0-bd8f-7e376dda65f1
+2022-11-24 09:15:34,893 - basicLogger - INFO - Received rentcar even with trace id396ad642-510b-49b6-b8ef-9fb067419a3c
+2022-11-24 09:15:34,897 - basicLogger - INFO - Received return car event with trace id2b98935e-6671-4ab5-9c1c-e264ba1fdf3d
+2022-11-24 09:15:34,899 - basicLogger - INFO - Received rentcar even with trace idfed54e10-9d75-410c-af17-a2d60bb51d69
+2022-11-24 09:15:34,902 - basicLogger - INFO - Received rentcar even with trace idebb69d6f-123a-4ada-a41a-0201362af6cb
+2022-11-24 09:15:34,905 - basicLogger - INFO - Received return car event with trace idbf03c648-c6e6-44dd-97f4-9a9cac7cb9c6
+2022-11-24 09:15:34,907 - basicLogger - INFO - Received rentcar even with trace id95feafb5-8831-4fde-9ba6-d29bba126e35
+2022-11-24 09:15:34,913 - basicLogger - INFO - Received return car event with trace id90844ded-44e9-4211-8e6d-b194e0602a4c
+2022-11-24 09:15:34,958 - basicLogger - INFO - Received return car event with trace idbf403691-f024-4688-ae43-177784ec0342
+2022-11-24 09:15:34,959 - basicLogger - INFO - Received rentcar even with trace id79839a92-1d3e-4ebe-a50f-8cb113ac4f22
+2022-11-24 09:15:35,038 - basicLogger - INFO - Received return car event with trace idfe536f94-3c89-4235-90af-d0ea3b05647a
+2022-11-24 09:15:35,040 - basicLogger - INFO - Received return car event with trace id1e757d65-73cc-45a3-8ac0-c39cf7565331
+2022-11-24 09:15:35,042 - basicLogger - INFO - Received return car event with trace idbabf0606-713c-46da-8a48-13cc547ea8f4
+2022-11-24 09:15:35,046 - basicLogger - INFO - Received rentcar even with trace id1e63cfee-31b3-4366-9814-668e9da9d151
+2022-11-24 09:15:35,048 - basicLogger - INFO - Received return car event with trace id9d56035d-d5cb-4372-ad87-69a96fed81c9
+2022-11-24 09:15:35,051 - basicLogger - INFO - Received rentcar even with trace idc3db655d-1a0d-4276-8843-b518f6b74ca9
+2022-11-24 09:15:35,054 - basicLogger - INFO - Received rentcar even with trace id22ec6d63-f3a1-4b2a-b484-877357e1367a
+2022-11-24 09:15:35,065 - basicLogger - INFO - Received return car event with trace id7f6a548f-b9a7-4c14-8bb3-30b12a691a1c
+2022-11-24 09:15:35,103 - basicLogger - INFO - Received return car event with trace idf1a04a73-420b-4db2-a3f4-d59379cd51c4
+2022-11-24 09:15:35,106 - basicLogger - INFO - Received rentcar even with trace id54cd2b8e-86e9-408b-82d1-1d84a1d3aff2
+2022-11-24 09:15:35,180 - basicLogger - INFO - Received rentcar even with trace idd935ff84-019b-4988-890a-c227d3a3305d
+2022-11-24 09:15:35,184 - basicLogger - INFO - Received rentcar even with trace id7c04fa42-c74f-4273-aada-37e147ffe30d
+2022-11-24 09:15:35,186 - basicLogger - INFO - Received return car event with trace id0ffff576-34af-45ba-8b19-e6b9ddda81ad
+2022-11-24 09:15:35,190 - basicLogger - INFO - Received return car event with trace idea09eb6a-d36b-4b6b-9a09-830ca3a8e20b
+2022-11-24 09:15:35,192 - basicLogger - INFO - Received rentcar even with trace ida5c3062c-9767-4855-bbb4-c2a98fb7ad08
+2022-11-24 09:15:35,194 - basicLogger - INFO - Received rentcar even with trace id3d4ac6b8-82c6-47bf-a02b-3edbde1c805e
+2022-11-24 09:15:35,198 - basicLogger - INFO - Received rentcar even with trace id5cb4364f-06cf-4719-94fa-86dda888ea8f
+2022-11-24 09:15:35,201 - basicLogger - INFO - Received return car event with trace id1ca6ac21-ac07-462a-83ed-4b8dc497fca5
+2022-11-24 09:15:35,213 - basicLogger - INFO - Received return car event with trace idad001800-9fa3-4c8f-ae8f-eefb54337dd1
+2022-11-24 09:15:35,242 - basicLogger - INFO - Received return car event with trace id6a275212-1c4e-41d2-92fb-a5b55a93c0b3
+2022-11-24 09:15:35,243 - basicLogger - INFO - Received rentcar even with trace id93a03776-ae22-43b9-bab7-917c1330fd64
+2022-11-24 09:15:35,321 - basicLogger - INFO - Received return car event with trace id777f71ce-cb6a-46e3-a376-2dfb5f56bd25
+2022-11-24 09:15:35,322 - basicLogger - INFO - Received return car event with trace ida417e02a-1365-4de2-8ed6-717e462980bf
+2022-11-24 09:15:35,325 - basicLogger - INFO - Received rentcar even with trace id95a93507-55a9-4ac3-9a91-eedc1f885b6b
+2022-11-24 09:15:35,326 - basicLogger - INFO - Received rentcar even with trace id2062ddee-faae-4997-bb87-5964a44ed9cb
+2022-11-24 09:15:35,328 - basicLogger - INFO - Received rentcar even with trace id7af9a253-74db-4081-b0cd-e4eb51336682
+2022-11-24 09:15:35,329 - basicLogger - INFO - Received return car event with trace id6afd303a-f52e-482f-9612-1e2734ef3776
+2022-11-24 09:15:35,330 - basicLogger - INFO - Received return car event with trace id7133a3ed-8209-4754-8508-32670f82440d
+2022-11-24 09:15:35,332 - basicLogger - INFO - Received return car event with trace id38e8ed3b-9ce3-4de5-9087-368eed4f0ddc
+2022-11-24 09:15:35,333 - basicLogger - INFO - Received rentcar even with trace id4f8e6f00-1c35-426b-b8e0-df975013fb46
+2022-11-24 09:15:35,362 - basicLogger - INFO - Received return car event with trace id1536cc73-1716-41e5-bf3c-eb3116cb1451
+2022-11-24 09:15:35,388 - basicLogger - INFO - Received rentcar even with trace id4bd9977d-c951-4f7d-a685-42369481562f
+2022-11-24 09:15:35,389 - basicLogger - INFO - Received return car event with trace idc5c5351f-ae22-4dec-97c6-69fa93818905
+2022-11-24 09:15:35,471 - basicLogger - INFO - Received return car event with trace id08d0b954-8cf1-458f-9fe2-aae46da0034b
+2022-11-24 09:15:35,473 - basicLogger - INFO - Received rentcar even with trace id12b4718b-4dee-4204-b9ca-6cdbaa23fd6f
+2022-11-24 09:15:35,476 - basicLogger - INFO - Received return car event with trace id9e79a04c-c9d7-4147-a98c-16597d0c5945
+2022-11-24 09:15:35,480 - basicLogger - INFO - Received rentcar even with trace ida6d58731-ec9b-487f-92b6-a81045b37cdd
+2022-11-24 09:15:35,484 - basicLogger - INFO - Received rentcar even with trace idb01a5a9d-615a-420d-8667-53a8025092e9
+2022-11-24 09:15:35,486 - basicLogger - INFO - Received return car event with trace id6aabfe32-98c5-4cec-8a6d-8ced508eaea7
+2022-11-24 09:15:35,489 - basicLogger - INFO - Received rentcar even with trace id72c93a40-afd7-44dd-b9ad-94dfa8982024
+2022-11-24 09:15:35,490 - basicLogger - INFO - Received rentcar even with trace idb036e776-4c2b-42c4-96fb-3c239e06dc9e
+2022-11-24 09:15:35,492 - basicLogger - INFO - Received rentcar even with trace id62f39984-dd63-48d8-93bc-eed54517c56b
+2022-11-24 09:15:35,494 - basicLogger - INFO - Received return car event with trace id6b08624e-cbdb-44b0-91cb-027f9338d615
+2022-11-24 09:15:35,512 - basicLogger - INFO - Received return car event with trace iddf8a96bf-75db-4c67-9c31-3f5a76ecd329
+2022-11-24 09:15:35,533 - basicLogger - INFO - Received rentcar even with trace id8e3d83c7-bc4a-4fab-af9f-acde31e45cc2
+2022-11-24 09:15:35,535 - basicLogger - INFO - Received return car event with trace id5d9894ad-c736-495d-b30c-77f9046c4241
+2022-11-24 09:15:40,246 - basicLogger - DEBUG - debug message
+2022-11-24 09:15:40,250 - basicLogger - DEBUG - debug message
+2022-11-24 09:18:37,773 - basicLogger - INFO - Received return car event with trace iddee6ffdd-87f3-4b2f-9b81-da33e1e61783
+2022-11-24 09:18:37,850 - basicLogger - INFO - Received rentcar even with trace id799f1958-fe0f-466b-9f05-55482614037d
+2022-11-24 09:18:37,923 - basicLogger - INFO - Received return car event with trace iddce8c334-4320-422e-bffa-9f6ef9240040
+2022-11-24 09:18:38,002 - basicLogger - INFO - Received rentcar even with trace id8fc8074d-8405-452c-8cb7-8f8dacfdd0fa
+2022-11-24 09:18:38,086 - basicLogger - INFO - Received return car event with trace id5d61603c-1ce5-4168-9751-d2d34c59cce0
+2022-11-24 09:18:38,163 - basicLogger - INFO - Received rentcar even with trace idaecb644c-1347-4200-8a0b-24ab45d2a355
+2022-11-24 09:18:38,240 - basicLogger - INFO - Received return car event with trace ide9d5c12f-3514-42db-a6fa-ad85b4ed5bbc
+2022-11-24 09:18:38,315 - basicLogger - INFO - Received rentcar even with trace id908feac4-5503-4bf9-b756-e6b52e59aba4
+2022-11-24 09:18:38,370 - basicLogger - INFO - Received return car event with trace idd55852c3-af77-4db6-8c41-e241a6e2b615
+2022-11-24 09:18:38,500 - basicLogger - INFO - Received rentcar even with trace id98d94560-5a10-4874-9f07-12dd0eb0d516
+2022-11-24 09:18:38,576 - basicLogger - INFO - Received return car event with trace id73f27ebc-412a-4430-8d38-3cd35e483438
+2022-11-24 09:18:38,654 - basicLogger - INFO - Received rentcar even with trace idaa13307d-16d4-4029-b9dc-34e014ffd61f
+2022-11-24 09:18:38,672 - basicLogger - INFO - Received return car event with trace ida136913c-e59b-4ce5-83d5-0f800f4a37af
+2022-11-24 09:18:38,802 - basicLogger - INFO - Received rentcar even with trace id14c30f3f-c0a8-4f83-b796-2cd201d7e1ba
+2022-11-24 09:18:38,881 - basicLogger - INFO - Received return car event with trace id9aa7f450-44c2-4a43-9bf6-d70425ddf9ad
+2022-11-24 09:18:38,959 - basicLogger - INFO - Received rentcar even with trace idef045143-dc00-4f08-b0dc-da87ba56da46
+2022-11-24 09:18:38,972 - basicLogger - INFO - Received return car event with trace idd698472b-dc52-4052-a1db-819a40129d9b
+2022-11-24 09:18:39,113 - basicLogger - INFO - Received rentcar even with trace idf45f079d-c42d-461e-8425-0decaa5a2775
+2022-11-24 09:18:39,196 - basicLogger - INFO - Received return car event with trace id1278a1fe-d797-4b37-9367-e026c3d3e0ad
+2022-11-24 09:18:39,272 - basicLogger - INFO - Received return car event with trace idf511b85c-f49e-4e45-8b08-e09a9f248284
+2022-11-24 09:18:39,276 - basicLogger - INFO - Received rentcar even with trace idcf01e498-3de2-4cb7-8920-83994c55ba8a
+2022-11-24 09:18:39,347 - basicLogger - INFO - Received rentcar even with trace id44be90a6-5b95-4daa-b46d-04d5055366a5
+2022-11-24 09:18:39,491 - basicLogger - INFO - Received return car event with trace id195c09ea-6a23-4017-8997-00532e7035df
+2022-11-24 09:18:39,571 - basicLogger - INFO - Received return car event with trace id4bdd85e2-c689-46ca-929f-cb664ebeb20d
+2022-11-24 09:18:39,573 - basicLogger - INFO - Received rentcar even with trace ida7fb5755-07e7-4db1-a53c-b93c7f642d83
+2022-11-24 09:18:39,648 - basicLogger - INFO - Received rentcar even with trace id3157031f-8364-4260-aa0a-213c015d454e
+2022-11-24 09:18:39,792 - basicLogger - INFO - Received return car event with trace id7af5039b-2ff5-4410-9e24-f6b728564c71
+2022-11-24 09:18:39,873 - basicLogger - INFO - Received return car event with trace idc7d6b17a-a02a-404d-9fea-bc0d9f304367
+2022-11-24 09:18:39,876 - basicLogger - INFO - Received rentcar even with trace id3a6cb91c-06af-4051-b39a-221a3367fe6f
+2022-11-24 09:18:39,951 - basicLogger - INFO - Received rentcar even with trace id5a80db16-bf16-4a08-9295-fa12171b6fab
+2022-11-24 09:18:40,103 - basicLogger - INFO - Received return car event with trace iddf999db5-a198-4cf6-86a0-646d5183b7d7
+2022-11-24 09:18:40,171 - basicLogger - INFO - Received return car event with trace idd51b64da-8fcc-4cf9-8461-544afb76ed38
+2022-11-24 09:18:40,179 - basicLogger - INFO - Received rentcar even with trace id87a908a3-abf9-4906-b0e7-cf0870b47f6f
+2022-11-24 09:18:40,255 - basicLogger - INFO - Received rentcar even with trace idc41e8e2a-680d-447d-bc1d-64273a94cb36
+2022-11-24 09:18:40,401 - basicLogger - INFO - Received return car event with trace id3d5076d1-551f-450a-a7b8-bfa584807e45
+2022-11-24 09:18:40,472 - basicLogger - INFO - Received return car event with trace id76c706c7-9812-406a-baa9-aed7494f9946
+2022-11-24 09:18:40,481 - basicLogger - INFO - Received rentcar even with trace id233fa0dd-93fd-409e-8df0-4a3d5f0fda0a
+2022-11-24 09:18:40,550 - basicLogger - INFO - Received rentcar even with trace id168b2f26-44eb-4712-8e9e-a304cf90b701
+2022-11-24 09:18:40,696 - basicLogger - INFO - Received return car event with trace id75e112af-582a-4115-b38e-ec88fbc720fb
+2022-11-24 09:18:40,775 - basicLogger - INFO - Received rentcar even with trace ide8328a06-e237-4b3c-a8a1-75c4942a161b
+2022-11-24 09:23:06,230 - basicLogger - INFO - Received return car event with trace id132744ba-61e0-4cc2-bc1a-bf0864ae75f6
+2022-11-24 09:23:06,304 - basicLogger - INFO - Received rentcar even with trace id79e41986-d624-483a-96fb-e498b0fd30d6
+2022-11-24 09:23:06,382 - basicLogger - INFO - Received return car event with trace idd51e1d4c-e88e-4d8b-a975-112d551f6e6c
+2022-11-24 09:23:06,457 - basicLogger - INFO - Received rentcar even with trace id62126abf-3d85-466d-9529-7da2e3282dc6
+2022-11-24 09:23:06,533 - basicLogger - INFO - Received return car event with trace id324f16de-e8a4-41c6-b364-7bf8f538fddc
+2022-11-24 09:23:06,606 - basicLogger - INFO - Received rentcar even with trace id8c8fcff3-a5e7-4e43-a791-e2e350ab1b20
+2022-11-24 09:23:06,680 - basicLogger - INFO - Received return car event with trace id62f8319e-c074-4f90-8239-1ed1339089df
+2022-11-24 09:23:06,753 - basicLogger - INFO - Received rentcar even with trace idc120be5a-36e6-476c-8fbd-e8255a8c3189
+2022-11-24 09:23:06,828 - basicLogger - INFO - Received return car event with trace ida5eebcaf-48c5-4b5a-89b4-611fd10fddc4
+2022-11-24 09:23:06,905 - basicLogger - INFO - Received rentcar even with trace id95f47da0-8e04-4c01-9283-5e02adf68616
+2022-11-24 09:23:06,977 - basicLogger - INFO - Received return car event with trace id199e2d41-56a9-42cb-932f-03124148f56f
+2022-11-24 09:23:07,083 - basicLogger - INFO - Received rentcar even with trace ida2b65b0d-7a7c-4126-bcd1-d98cc3b1e9c2
+2022-11-24 09:23:07,128 - basicLogger - INFO - Received return car event with trace id3f445372-1f0c-4a46-a4a4-100eaa351070
+2022-11-24 09:23:07,228 - basicLogger - INFO - Received rentcar even with trace id7bf11bdb-20dc-4ada-9c60-ffc5e09554fc
+2022-11-24 09:23:07,305 - basicLogger - INFO - Received return car event with trace idb994526f-45a9-487e-a7ab-98fd3a76d65d
+2022-11-24 09:23:07,381 - basicLogger - INFO - Received rentcar even with trace id74f3843b-5c80-414a-a7b7-a825dd321102
+2022-11-24 09:23:07,429 - basicLogger - INFO - Received return car event with trace id1c0168bb-33ec-41f4-bb9a-e26c5e2a6ab0
+2022-11-24 09:23:07,528 - basicLogger - INFO - Received rentcar even with trace ida8eb643e-de8f-439d-9692-850926adf4bb
+2022-11-24 09:23:07,603 - basicLogger - INFO - Received return car event with trace idfcc73702-d91d-492b-9971-a9d4c69df451
+2022-11-24 09:23:07,680 - basicLogger - INFO - Received rentcar even with trace idd5c04ef0-729e-4de9-9e19-c81260186387
+2022-11-24 09:23:07,732 - basicLogger - INFO - Received return car event with trace idfd9f3743-46a7-4092-a122-63fcbff49122
+2022-11-24 09:23:07,830 - basicLogger - INFO - Received rentcar even with trace id3ca2ec7e-96f5-40a5-a4eb-750974b3cb23
+2022-11-24 09:23:07,906 - basicLogger - INFO - Received return car event with trace ide52f6b57-3bc8-410d-8062-3220ea9180f8
+2022-11-24 09:23:07,981 - basicLogger - INFO - Received rentcar even with trace id4863f105-c1a7-4087-87e2-cf14209c9b1a
+2022-11-24 09:23:08,029 - basicLogger - INFO - Received return car event with trace id2ca3354f-8de5-454a-925f-553c88cfb00f
+2022-11-24 09:23:08,127 - basicLogger - INFO - Received rentcar even with trace idf456953b-e7f2-4150-b39f-6cab505780bf
+2022-11-24 09:23:08,203 - basicLogger - INFO - Received return car event with trace id8f3a74ef-f0dc-4f83-bf48-b6620517f6d8
+2022-11-24 09:23:08,279 - basicLogger - INFO - Received rentcar even with trace ida230a8e2-4820-4e80-a417-d86571ba0142
+2022-11-24 09:23:08,330 - basicLogger - INFO - Received return car event with trace idcc98ffd0-2953-4273-adab-e5efd335a6c5
+2022-11-24 09:23:08,427 - basicLogger - INFO - Received rentcar even with trace id59d452db-df09-48ee-a666-81bc50a10768
+2022-11-24 09:23:08,502 - basicLogger - INFO - Received return car event with trace id1676c52a-20e4-4a40-81ac-9dc3e58c6724
+2022-11-24 09:23:08,621 - basicLogger - INFO - Received rentcar even with trace id77f278d5-46c1-464a-81f0-4b67b2867d4e
+2022-11-24 09:23:08,628 - basicLogger - INFO - Received return car event with trace idf81c6f15-f595-48d1-bb1e-1cbdc1ab7448
+2022-11-24 09:23:08,770 - basicLogger - INFO - Received rentcar even with trace id331f1cb7-02b4-4986-a78a-5cc26fcf8d8e
+2022-11-24 09:23:08,848 - basicLogger - INFO - Received return car event with trace id72956bab-c08f-45b3-abaa-488ba4476c30
+2022-11-24 09:23:08,927 - basicLogger - INFO - Received rentcar even with trace id3d05a1a0-ca54-4a5c-b495-80f73955dac1
+2022-11-24 09:23:08,929 - basicLogger - INFO - Received return car event with trace id2ace08e4-e332-42dd-9641-39c0f6f201a5
+2022-11-24 09:23:09,171 - basicLogger - INFO - Received rentcar even with trace idf0a109a0-bee5-4434-bb93-18f9cf041972
+2022-11-24 09:23:09,252 - basicLogger - INFO - Received return car event with trace id9b89217f-4bf5-4945-87f0-bd30fc4f3b20
+2022-11-24 09:23:09,329 - basicLogger - INFO - Received rentcar even with trace idad9ad42d-e25b-4217-8285-df75dcbcdf98
+2022-11-24 09:24:25,110 - basicLogger - DEBUG - debug message
+2022-11-24 09:24:25,113 - basicLogger - DEBUG - debug message
+2022-11-24 09:25:18,309 - basicLogger - INFO - Received rentcar even with trace id721b7ac0-437a-4078-8374-acc3f7d31aba
+2022-11-24 09:25:21,836 - basicLogger - INFO - Received rentcar even with trace id2bb0c6b0-2f09-4304-90b3-6a588d2c7750
+2022-11-24 09:25:22,235 - basicLogger - INFO - Received rentcar even with trace idb13a7f5a-2620-4dbc-af47-2da7aced3ffe
+2022-11-24 09:25:22,568 - basicLogger - INFO - Received rentcar even with trace id0ce9ea10-05b1-4508-9fd2-fbcf8d8a09f8
+2022-11-24 09:27:53,019 - basicLogger - INFO - Received rentcar even with trace id41b0e75f-70e9-485a-8803-71de0a34a762
+2022-11-24 09:27:53,939 - basicLogger - INFO - Received rentcar even with trace idf41cfb71-1b7b-4a97-a066-fae6a33049de
+2022-11-24 09:27:55,078 - basicLogger - INFO - Received rentcar even with trace idb1418cb1-45b5-461b-9155-e470d8628b01
+2022-11-24 09:35:53,934 - basicLogger - INFO - Received return car event with trace id1ee5d096-676b-4590-ac89-3e1f6c0d87e2
+2022-11-24 09:35:54,250 - basicLogger - INFO - Received return car event with trace id1ab5bcb0-d483-4bf6-b6ff-875713419cc3
+2022-11-24 09:35:54,536 - basicLogger - INFO - Received return car event with trace idd4e255db-7794-4597-bf26-56d2474adcf2
+2022-11-24 09:35:54,835 - basicLogger - INFO - Received return car event with trace id20e72767-d9f8-4946-8c87-3e8abb8eb106
+2022-11-24 09:35:55,135 - basicLogger - INFO - Received return car event with trace idbf01e6d4-1594-41e5-8c2a-c9f29dea085b
+2022-11-24 09:35:55,436 - basicLogger - INFO - Received return car event with trace iddc479eb4-d3e3-44af-95bb-4a2d15981aa1
+2022-11-24 09:35:55,735 - basicLogger - INFO - Received return car event with trace idd5affd01-58a6-4d0d-8916-d98fc051da40
+2022-11-24 09:35:56,034 - basicLogger - INFO - Received return car event with trace id078d2499-6870-49fe-9409-9ae026ca4e28
+2022-11-24 09:35:56,336 - basicLogger - INFO - Received return car event with trace id348410f4-977b-4734-a00a-712ec9a04f40
+2022-11-24 09:35:56,638 - basicLogger - INFO - Received return car event with trace id07d915d5-59c5-4101-a138-bfe14f8aaf9f
+2022-11-24 09:37:01,094 - basicLogger - INFO - Received return car event with trace idb29b5ff3-a323-4440-91f0-ca3925a384b2
+2022-11-24 09:37:17,437 - basicLogger - INFO - Received return car event with trace id849a0bb3-858b-420e-9f12-f993dfc4e6ea
+2022-11-24 09:37:17,792 - basicLogger - INFO - Received return car event with trace id0f718663-5a6e-468a-8370-61b570ac752c
+2022-11-24 09:37:18,153 - basicLogger - INFO - Received return car event with trace ida20e5450-c38b-4ff7-bf88-cc18822ce1ce
+2022-11-24 09:37:18,485 - basicLogger - INFO - Received return car event with trace id87a291a6-b437-4d58-a2d8-bc63586c3672
+2022-11-24 09:37:33,513 - basicLogger - INFO - Received return car event with trace idd285e28a-872f-4d34-8810-736c316146ce
+2022-11-24 09:38:16,743 - basicLogger - INFO - Received return car event with trace idf9e87354-3fe1-4274-b586-aa56b1699a16
