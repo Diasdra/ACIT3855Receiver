@@ -1,15 +1,10 @@
 import datetime
 import json
-import swagger_ui_bundle
 import connexion
-import os
 import yaml
 import logging
 import uuid
-from logging import config
-from connexion import NoContent
 from pykafka import KafkaClient
-import requests
 
 with open('app_conf.yml', 'r') as f:
   app_config = yaml.safe_load(f.read())
